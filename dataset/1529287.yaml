@@ -1,0 +1,2277 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  competition: IPL
+  dates:
+  - '2026-05-02'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      wickets: 8
+  overs: 20
+  player_of_match:
+  - RD Gaikwad
+  players:
+    Mumbai Indians:
+    - Raghu Sharma
+    - WG Jacks
+    - RD Rickelton
+    - Naman Dhir
+    - SA Yadav
+    - Tilak Varma
+    - HH Pandya
+    - R Minz
+    - Krish Bhagat
+    - TA Boult
+    - JJ Bumrah
+    - AM Ghazanfar
+    Chennai Super Kings:
+    - Mukesh Choudhary
+    - SV Samson
+    - RD Gaikwad
+    - Urvil Patel
+    - Kartik Sharma
+    - D Brevis
+    - S Dube
+    - J Overton
+    - RS Ghosh
+    - PR Veer
+    - Noor Ahmad
+    - A Kamboj
+  registry:
+    people:
+      A Kamboj: fcc21ace
+      AM Ghazanfar: 9ca68676
+      Amit Sharma: 7ea3e0cc
+      D Brevis: 844e79d1
+      HH Pandya: dbe50b21
+      J Overton: 59559bc2
+      JJ Bumrah: 462411b3
+      KM Gandhi: a9421c64
+      Kartik Sharma: 7b679de5
+      Krish Bhagat: e48a4814
+      Mukesh Choudhary: 765a4731
+      Naman Dhir: fffa744b
+      Nitin Menon: e1d41d9e
+      Noor Ahmad: efc04be7
+      PR Veer: e148e6bd
+      R Minz: bafd0398
+      RD Gaikwad: 45a43fe2
+      RD Rickelton: e66732f8
+      RS Ghosh: dee07622
+      Raghu Sharma: 5b615e7c
+      S Dube: a4e37e47
+      SA Yadav: 271f83cd
+      SN Khan: f088b960
+      SV Samson: a4cc73aa
+      TA Boult: a818c1be
+      TM Srivastava: a76d10ba
+      Tilak Varma: b0482a1d
+      Urvil Patel: cf59b3f0
+      Vinod Seshan: a3357a27
+      WG Jacks: 9caf69a1
+  teams:
+  - Mumbai Indians
+  - Chennai Super Kings
+  toss:
+    winner: Mumbai Indians
+    decision: bat
+  umpires:
+  - KM Gandhi
+  - Nitin Menon
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+  team_type: club
+innings:
+- 1st innings:
+    team: Mumbai Indians
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WG Jacks
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: WG Jacks
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: WG Jacks
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: WG Jacks
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WG Jacks
+        wicket:
+          player_out: WG Jacks
+          fielders:
+          - RS Ghosh
+          kind: caught
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naman Dhir
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Naman Dhir
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: RD Rickelton
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Naman Dhir
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Naman Dhir
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Naman Dhir
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Rickelton
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: RD Rickelton
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Naman Dhir
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Rickelton
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Naman Dhir
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Rickelton
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: RD Rickelton
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Rickelton
+        wicket:
+          player_out: RD Rickelton
+          fielders:
+          - Urvil Patel
+          kind: caught
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: SA Yadav
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: SA Yadav
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: SA Yadav
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Naman Dhir
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: SA Yadav
+        bowler: PR Veer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: SA Yadav
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: SA Yadav
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Yadav
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SA Yadav
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Yadav
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: SA Yadav
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: SA Yadav
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: SA Yadav
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Naman Dhir
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: SA Yadav
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Yadav
+        wicket:
+          player_out: SA Yadav
+          fielders:
+          - D Brevis
+          kind: caught
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Tilak Varma
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Tilak Varma
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Naman Dhir
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tilak Varma
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tilak Varma
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Tilak Varma
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tilak Varma
+        wicket:
+          player_out: Tilak Varma
+          fielders:
+          - RD Gaikwad
+          kind: caught
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: HH Pandya
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: HH Pandya
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: HH Pandya
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Naman Dhir
+        bowler: RS Ghosh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HH Pandya
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: HH Pandya
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: HH Pandya
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Naman Dhir
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Naman Dhir
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Naman Dhir
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Naman Dhir
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Naman Dhir
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Naman Dhir
+        wicket:
+          player_out: Naman Dhir
+          fielders:
+          - SN Khan (sub)
+          kind: caught
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Minz
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: HH Pandya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Minz
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: HH Pandya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Minz
+        wicket:
+          player_out: R Minz
+          kind: bowled
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: HH Pandya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: HH Pandya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: HH Pandya
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Krish Bhagat
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: HH Pandya
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Krish Bhagat
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Krish Bhagat
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Krish Bhagat
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Krish Bhagat
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HH Pandya
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Krish Bhagat
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HH Pandya
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HH Pandya
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HH Pandya
+    - 19.3:
+        actual_delivery: '19.2'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+    - 19.4:
+        actual_delivery: '19.3'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HH Pandya
+        wicket:
+          player_out: HH Pandya
+          fielders:
+          - D Brevis
+          kind: caught
+    - 19.5:
+        actual_delivery: '19.4'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TA Boult
+    - 19.6:
+        actual_delivery: '19.5'
+        non_striker: Krish Bhagat
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TA Boult
+    - 19.7:
+        actual_delivery: '19.6'
+        non_striker: TA Boult
+        bowler: A Kamboj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Krish Bhagat
+- 2nd innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: SV Samson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: SV Samson
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: SV Samson
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          fielders:
+          - RD Rickelton
+          kind: caught
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Gaikwad
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Urvil Patel
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Gaikwad
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Urvil Patel
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Urvil Patel
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Urvil Patel
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Urvil Patel
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Urvil Patel
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Raghu Sharma
+            out: R Minz
+            team: Mumbai Indians
+            reason: impact_player
+        batsman: RD Gaikwad
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Urvil Patel
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Gaikwad
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Urvil Patel
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+        wicket:
+          player_out: Urvil Patel
+          kind: bowled
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Kartik Sharma
+            out: Mukesh Choudhary
+            team: Chennai Super Kings
+            reason: impact_player
+        batsman: Kartik Sharma
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kartik Sharma
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kartik Sharma
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Kartik Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Kartik Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Gaikwad
+    - 9.4:
+        actual_delivery: '9.3'
+        non_striker: Kartik Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: Kartik Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kartik Sharma
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Kartik Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Kartik Sharma
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: RD Gaikwad
+        bowler: HH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: RD Gaikwad
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Kartik Sharma
+        bowler: Raghu Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Kartik Sharma
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: RD Gaikwad
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Gaikwad
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: Kartik Sharma
+        bowler: JJ Bumrah
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Kartik Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Kartik Sharma
+        bowler: TA Boult
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Gaikwad
+    - 15.4:
+        actual_delivery: '15.3'
+        non_striker: Kartik Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: Kartik Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Kartik Sharma
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kartik Sharma
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Kartik Sharma
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kartik Sharma
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: RD Gaikwad
+        bowler: AM Ghazanfar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kartik Sharma
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: RD Gaikwad
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Kartik Sharma
+        bowler: Krish Bhagat
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: RD Gaikwad
+        bowler: TA Boult
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kartik Sharma
+    target:
+      overs: 20
+      runs: 160

@@ -1,0 +1,2410 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-04-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Jaipur
+  competition: IPL
+  dates:
+  - '2026-04-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Sunrisers Hyderabad
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - Ishan Kishan
+  players:
+    Rajasthan Royals:
+    - Ravi Bishnoi
+    - YBK Jaiswal
+    - V Suryavanshi
+    - Dhruv Jurel
+    - R Parag
+    - D Ferreira
+    - SO Hetmyer
+    - RA Jadeja
+    - JC Archer
+    - TU Deshpande
+    - N Burger
+    - Brijesh Sharma
+    Sunrisers Hyderabad:
+    - Sakib Hussain
+    - TM Head
+    - Abhishek Sharma
+    - Ishan Kishan
+    - H Klaasen
+    - Nithish Kumar Reddy
+    - S Arora
+    - Aniket Verma
+    - PJ Cummins
+    - Shivang Kumar
+    - E Malinga
+    - PP Hinge
+  registry:
+    people:
+      Abhishek Sharma: f29185a1
+      Amit Sharma: 7ea3e0cc
+      Aniket Verma: a3b0600d
+      Brijesh Sharma: 133bbd61
+      D Ferreira: f0af99a7
+      Dhruv Jurel: bcf325d2
+      E Malinga: 5750bcb4
+      H Klaasen: 235c2bb6
+      Ishan Kishan: 752f7486
+      JC Archer: 5574750c
+      KM Gandhi: a9421c64
+      MV Saidharshan Kumar: 54b6007b
+      N Burger: 465aa633
+      Nithish Kumar Reddy: aad0c365
+      Nitin Menon: e1d41d9e
+      PJ Cummins: ded9240e
+      PP Hinge: ece7b6b3
+      R Parag: 04a418e8
+      RA Jadeja: fe93fd9d
+      Ravi Bishnoi: df064e1a
+      S Arora: d7423da1
+      SO Hetmyer: 48a1d7b7
+      Sakib Hussain: 280fff14
+      Shivang Kumar: 7b44eb3e
+      TM Head: 12b610c2
+      TM Srivastava: a76d10ba
+      TU Deshpande: 46a9bea1
+      V Suryavanshi: 470f446b
+      YBK Jaiswal: 6c19c6e5
+  teams:
+  - Rajasthan Royals
+  - Sunrisers Hyderabad
+  toss:
+    winner: Sunrisers Hyderabad
+    decision: field
+  umpires:
+  - KM Gandhi
+  - Nitin Menon
+  venue: Sawai Mansingh Stadium, Jaipur
+  team_type: club
+innings:
+- 1st innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: V Suryavanshi
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: YBK Jaiswal
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: YBK Jaiswal
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YBK Jaiswal
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Dhruv Jurel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Suryavanshi
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dhruv Jurel
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: Dhruv Jurel
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: Dhruv Jurel
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Dhruv Jurel
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: V Suryavanshi
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: V Suryavanshi
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: V Suryavanshi
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Dhruv Jurel
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Dhruv Jurel
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Dhruv Jurel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: V Suryavanshi
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Dhruv Jurel
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Dhruv Jurel
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Dhruv Jurel
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Dhruv Jurel
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Dhruv Jurel
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: V Suryavanshi
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Dhruv Jurel
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: V Suryavanshi
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Dhruv Jurel
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Dhruv Jurel
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Dhruv Jurel
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Dhruv Jurel
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dhruv Jurel
+    - 10.3:
+        actual_delivery: '10.2'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dhruv Jurel
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dhruv Jurel
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: V Suryavanshi
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: V Suryavanshi
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: V Suryavanshi
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: V Suryavanshi
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Dhruv Jurel
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Dhruv Jurel
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Dhruv Jurel
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dhruv Jurel
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Dhruv Jurel
+    - 12.6:
+        actual_delivery: '12.4'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+        wicket:
+          player_out: Dhruv Jurel
+          fielders:
+          - Aniket Verma
+          kind: caught
+    - 12.7:
+        actual_delivery: '12.5'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 12.8:
+        actual_delivery: '12.6'
+        non_striker: V Suryavanshi
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: V Suryavanshi
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+        wicket:
+          player_out: V Suryavanshi
+          kind: lbw
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Ferreira
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: R Parag
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: R Parag
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Parag
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: D Ferreira
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: R Parag
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: R Parag
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: D Ferreira
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: D Ferreira
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Parag
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: R Parag
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: R Parag
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: R Parag
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: R Parag
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: D Ferreira
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Parag
+        wicket:
+          player_out: R Parag
+          kind: bowled
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: D Ferreira
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: SO Hetmyer
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: SO Hetmyer
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: D Ferreira
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: D Ferreira
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: SO Hetmyer
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: SO Hetmyer
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: SO Hetmyer
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: SO Hetmyer
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Ferreira
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: SO Hetmyer
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Ferreira
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: D Ferreira
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: TM Head
+            out: Sakib Hussain
+            team: Sunrisers Hyderabad
+            reason: impact_player
+        batsman: SO Hetmyer
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: D Ferreira
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SO Hetmyer
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: SO Hetmyer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: SO Hetmyer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: SO Hetmyer
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SO Hetmyer
+    - 19.2:
+        actual_delivery: '19.1'
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 19.3:
+        actual_delivery: '19.2'
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 19.4:
+        actual_delivery: '19.3'
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - Nithish Kumar Reddy
+          kind: caught
+    - 19.5:
+        actual_delivery: '19.4'
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Archer
+    - 19.6:
+        actual_delivery: '19.5'
+        non_striker: RA Jadeja
+        bowler: PP Hinge
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Archer
+    - 19.7:
+        actual_delivery: '19.6'
+        non_striker: JC Archer
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Ravi Bishnoi
+            out: YBK Jaiswal
+            team: Rajasthan Royals
+            reason: impact_player
+        batsman: TM Head
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM Head
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: TM Head
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - Dhruv Jurel
+          kind: caught
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Abhishek Sharma
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Abhishek Sharma
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Abhishek Sharma
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: Ishan Kishan
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ishan Kishan
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ishan Kishan
+    - 5.5:
+        actual_delivery: '5.3'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 5.6:
+        actual_delivery: '5.4'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 5.7:
+        actual_delivery: '5.5'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 5.8:
+        actual_delivery: '5.6'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Abhishek Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Abhishek Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Abhishek Sharma
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Ishan Kishan
+        bowler: R Parag
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 7.2:
+        actual_delivery: '7.1'
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 7.3:
+        actual_delivery: '7.2'
+        non_striker: Ishan Kishan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 7.4:
+        actual_delivery: '7.3'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.5:
+        actual_delivery: '7.4'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 7.6:
+        actual_delivery: '7.5'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: Abhishek Sharma
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abhishek Sharma
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abhishek Sharma
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: Ishan Kishan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: Abhishek Sharma
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ishan Kishan
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Ishan Kishan
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abhishek Sharma
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Ishan Kishan
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abhishek Sharma
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Abhishek Sharma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Abhishek Sharma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Abhishek Sharma
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: Ishan Kishan
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          fielders:
+          - JC Archer
+          kind: caught
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Ishan Kishan
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: H Klaasen
+        bowler: Ravi Bishnoi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: H Klaasen
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ishan Kishan
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Klaasen
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: Ishan Kishan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Nithish Kumar Reddy
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Nithish Kumar Reddy
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: H Klaasen
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: H Klaasen
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: H Klaasen
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: H Klaasen
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: H Klaasen
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Nithish Kumar Reddy
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Nithish Kumar Reddy
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Nithish Kumar Reddy
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: H Klaasen
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nithish Kumar Reddy
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Nithish Kumar Reddy
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: H Klaasen
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Nithish Kumar Reddy
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Nithish Kumar Reddy
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Nithish Kumar Reddy
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Klaasen
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Nithish Kumar Reddy
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Klaasen
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: H Klaasen
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nithish Kumar Reddy
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Nithish Kumar Reddy
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: H Klaasen
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Nithish Kumar Reddy
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: H Klaasen
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          kind: lbw
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: H Klaasen
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: S Arora
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: S Arora
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: S Arora
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - Ravi Bishnoi
+          kind: caught
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Aniket Verma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: S Arora
+        bowler: N Burger
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aniket Verma
+    - 18.3:
+        actual_delivery: '18.2'
+        non_striker: S Arora
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aniket Verma
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: Aniket Verma
+        bowler: N Burger
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Arora
+    target:
+      overs: 20
+      runs: 229

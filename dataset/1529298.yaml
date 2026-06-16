@@ -1,0 +1,2476 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dharamsala
+  competition: IPL
+  dates:
+  - '2026-05-11'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Delhi Capitals
+    by:
+      wickets: 3
+  overs: 20
+  player_of_match:
+  - M Tiwari
+  players:
+    Punjab Kings:
+    - Yash Thakur
+    - Priyansh Arya
+    - P Simran Singh
+    - SS Iyer
+    - C Connolly
+    - MP Stoinis
+    - Shashank Singh
+    - Suryansh Shedge
+    - M Jansen
+    - BJ Dwarshuis
+    - Arshdeep Singh
+    - YS Chahal
+    Delhi Capitals:
+    - Mukesh Kumar
+    - KL Rahul
+    - Abishek Porel
+    - SU Parakh
+    - T Stubbs
+    - AR Patel
+    - DA Miller
+    - Ashutosh Sharma
+    - M Tiwari
+    - Auqib Nabi
+    - MA Starc
+    - L Ngidi
+  registry:
+    people:
+      AR Patel: 2e171977
+      AT Holdstock: 6fa3258c
+      Abishek Porel: ad3b6e95
+      Arshdeep Singh: 244048f6
+      Ashutosh Sharma: 84d9c311
+      Auqib Nabi: 7c3c0337
+      BJ Dwarshuis: e1b9f3a9
+      Bhavesh Patel: ee03dc30
+      C Connolly: fe366f34
+      DA Miller: d67d5f00
+      KL Rahul: b17e2f24
+      KN Ananthapadmanabhan: 3144063a
+      L Ngidi: f834dcfc
+      M Jansen: 81c36ee9
+      M Tiwari: fb5f69e4
+      MA Starc: 3fb19989
+      MP Stoinis: d9273ee7
+      Mukesh Kumar: 2cffab74
+      P Dharmani: eaa90ab4
+      P Dubey: ed5a5510
+      P Joshi: ffc0e370
+      P Simran Singh: 9418198b
+      Priyansh Arya: b5797845
+      SS Iyer: 85ec8e33
+      SU Parakh: 926c7443
+      Shashank Singh: 26989d80
+      Suryansh Shedge: 970ddd24
+      T Stubbs: 85b3fab2
+      YS Chahal: 57ee1fde
+      Yash Thakur: 4b31f3a3
+  teams:
+  - Punjab Kings
+  - Delhi Capitals
+  toss:
+    winner: Delhi Capitals
+    decision: field
+  umpires:
+  - Bhavesh Patel
+  - KN Ananthapadmanabhan
+  venue: Himachal Pradesh Cricket Association Stadium, Dharamsala
+  team_type: club
+innings:
+- 1st innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Priyansh Arya
+    - 0.5:
+        actual_delivery: '0.4'
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: P Simran Singh
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Priyansh Arya
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Priyansh Arya
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Priyansh Arya
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: P Simran Singh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: P Simran Singh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: P Simran Singh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: P Simran Singh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: P Simran Singh
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Priyansh Arya
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: P Simran Singh
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 3.7:
+        actual_delivery: '3.6'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 6.3:
+        actual_delivery: '6.2'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 6.4:
+        actual_delivery: '6.2'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 6.5:
+        actual_delivery: '6.3'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.6:
+        actual_delivery: '6.4'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 6.7:
+        actual_delivery: '6.5'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+        wicket:
+          player_out: P Simran Singh
+          fielders:
+          - Auqib Nabi
+          kind: caught
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: SS Iyer
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: SS Iyer
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Priyansh Arya
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - SU Parakh
+          kind: caught
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: C Connolly
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: C Connolly
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Connolly
+    - 9.5:
+        actual_delivery: '9.4'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Connolly
+    - 9.6:
+        actual_delivery: '9.4'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 9.7:
+        actual_delivery: '9.5'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 9.8:
+        actual_delivery: '9.6'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 10.3:
+        actual_delivery: '10.2'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: C Connolly
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: C Connolly
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: C Connolly
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: C Connolly
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: C Connolly
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: C Connolly
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: C Connolly
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: C Connolly
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: C Connolly
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: C Connolly
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: C Connolly
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: C Connolly
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: C Connolly
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        replacements:
+          match:
+          - in: Ashutosh Sharma
+            out: Mukesh Kumar
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: SS Iyer
+    - 17.2:
+        actual_delivery: '17.1'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 17.3:
+        actual_delivery: '17.2'
+        non_striker: C Connolly
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.4:
+        actual_delivery: '17.3'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          fielders:
+          - DA Miller
+          kind: caught
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: SS Iyer
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MP Stoinis
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: MP Stoinis
+        bowler: M Tiwari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MP Stoinis
+        wicket:
+          player_out: MP Stoinis
+          fielders:
+          - M Tiwari
+          kind: caught
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+        wicket:
+          player_out: Shashank Singh
+          fielders:
+          - AR Patel
+          kind: caught
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Suryansh Shedge
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suryansh Shedge
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suryansh Shedge
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: SS Iyer
+        bowler: MA Starc
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Suryansh Shedge
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Suryansh Shedge
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suryansh Shedge
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Suryansh Shedge
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Suryansh Shedge
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Suryansh Shedge
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: SS Iyer
+        bowler: L Ngidi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Suryansh Shedge
+- 2nd innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: Abishek Porel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Yash Thakur
+            out: Shashank Singh
+            team: Punjab Kings
+            reason: impact_player
+        batsman: KL Rahul
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Abishek Porel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Abishek Porel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Abishek Porel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Abishek Porel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: KL Rahul
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: KL Rahul
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: KL Rahul
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: KL Rahul
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: KL Rahul
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+        wicket:
+          player_out: Abishek Porel
+          kind: bowled
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: KL Rahul
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SU Parakh
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - M Jansen
+          kind: caught
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: T Stubbs
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SU Parakh
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: T Stubbs
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SU Parakh
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: SU Parakh
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: SU Parakh
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: T Stubbs
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SU Parakh
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: T Stubbs
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SU Parakh
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: SU Parakh
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: T Stubbs
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SU Parakh
+        wicket:
+          player_out: SU Parakh
+          fielders:
+          - YS Chahal
+          kind: caught
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: T Stubbs
+        bowler: Arshdeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AR Patel
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: AR Patel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: T Stubbs
+        bowler: Arshdeep Singh
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AR Patel
+    - 4.7:
+        actual_delivery: '4.5'
+        non_striker: AR Patel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 4.8:
+        actual_delivery: '4.6'
+        non_striker: AR Patel
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: T Stubbs
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: AR Patel
+    - 6.3:
+        actual_delivery: '6.2'
+        non_striker: T Stubbs
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 6.4:
+        actual_delivery: '6.3'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 6.5:
+        actual_delivery: '6.4'
+        non_striker: T Stubbs
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 6.6:
+        actual_delivery: '6.5'
+        non_striker: T Stubbs
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: T Stubbs
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AR Patel
+    - 6.8:
+        actual_delivery: '6.6'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: T Stubbs
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: T Stubbs
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - C Connolly
+          kind: run out
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: DA Miller
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: DA Miller
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: DA Miller
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: AR Patel
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: AR Patel
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: AR Patel
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: AR Patel
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: AR Patel
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: DA Miller
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: AR Patel
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: DA Miller
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AR Patel
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: AR Patel
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: DA Miller
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: DA Miller
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AR Patel
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: DA Miller
+        bowler: Yash Thakur
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: AR Patel
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: DA Miller
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: AR Patel
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: DA Miller
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AR Patel
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 13.3:
+        actual_delivery: '13.2'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 13.4:
+        actual_delivery: '13.3'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AR Patel
+    - 13.5:
+        actual_delivery: '13.3'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 13.6:
+        actual_delivery: '13.4'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 13.7:
+        actual_delivery: '13.5'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AR Patel
+    - 13.8:
+        actual_delivery: '13.6'
+        non_striker: DA Miller
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - BJ Dwarshuis
+          kind: caught
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Ashutosh Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ashutosh Sharma
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Ashutosh Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Ashutosh Sharma
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Ashutosh Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Ashutosh Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Ashutosh Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Ashutosh Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Ashutosh Sharma
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: DA Miller
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ashutosh Sharma
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Ashutosh Sharma
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Ashutosh Sharma
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DA Miller
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Ashutosh Sharma
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - P Simran Singh
+          kind: caught
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Ashutosh Sharma
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Tiwari
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Ashutosh Sharma
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tiwari
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: M Tiwari
+        bowler: BJ Dwarshuis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Ashutosh Sharma
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tiwari
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: M Tiwari
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ashutosh Sharma
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: M Tiwari
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ashutosh Sharma
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: M Tiwari
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ashutosh Sharma
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: Ashutosh Sharma
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: M Tiwari
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Ashutosh Sharma
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tiwari
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Ashutosh Sharma
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Tiwari
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Ashutosh Sharma
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Tiwari
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Ashutosh Sharma
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Tiwari
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: M Tiwari
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ashutosh Sharma
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: M Tiwari
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ashutosh Sharma
+        wicket:
+          player_out: Ashutosh Sharma
+          fielders:
+          - P Dubey (sub)
+          kind: caught
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: M Tiwari
+        bowler: Yash Thakur
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Auqib Nabi
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: M Tiwari
+        bowler: Yash Thakur
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Auqib Nabi
+    target:
+      overs: 20
+      runs: 211

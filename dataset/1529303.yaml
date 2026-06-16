@@ -1,0 +1,2458 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Kolkata
+  competition: IPL
+  dates:
+  - '2026-05-16'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Kolkata Knight Riders
+    by:
+      runs: 29
+  overs: 20
+  player_of_match:
+  - SP Narine
+  players:
+    Kolkata Knight Riders:
+    - M Pathirana
+    - AM Rahane
+    - FH Allen
+    - A Raghuvanshi
+    - C Green
+    - MK Pandey
+    - RK Singh
+    - SP Narine
+    - AS Roy
+    - CV Varun
+    - SR Dubey
+    - Kartik Tyagi
+    Gujarat Titans:
+    - Mohammed Siraj
+    - B Sai Sudharsan
+    - Shubman Gill
+    - N Sindhu
+    - JC Buttler
+    - R Tewatia
+    - JO Holder
+    - Washington Sundar
+    - Rashid Khan
+    - K Rabada
+    - Arshad Khan
+    - R Sai Kishore
+  registry:
+    people:
+      A Raghuvanshi: d7017798
+      AK Argal: 0ee78cf3
+      AM Rahane: 29e95537
+      AS Roy: e4cdf230
+      Arshad Khan: '12314277'
+      B Sai Sudharsan: d5130a30
+      C Green: eaa76d3c
+      CV Varun: 5b7ab5a9
+      FH Allen: bf74b130
+      JC Buttler: 99b75528
+      JO Holder: 0f721006
+      K Rabada: e62dd25d
+      K Swaroopanand: aa2a4962
+      Kartik Tyagi: 5d2eea49
+      M Pathirana: 64839cb3
+      MK Pandey: 93b4fc78
+      Mohammed Siraj: 2f49c897
+      N Sindhu: 3cea23da
+      R Sai Kishore: c7a995d3
+      R Seth: 540a44ba
+      R Tewatia: 39a2dfa8
+      RK Singh: 0a509d6b
+      Ramandeep Singh: be24ead0
+      Rashid Khan: 5f547c8b
+      SJ Nogajski: 9b3f9323
+      SP Narine: 9d430b40
+      SR Dubey: '11061889'
+      Shubman Gill: b4b99816
+      VK Sharma: a7a49df4
+      Washington Sundar: f19ccfad
+  teams:
+  - Kolkata Knight Riders
+  - Gujarat Titans
+  toss:
+    winner: Gujarat Titans
+    decision: field
+  umpires:
+  - K Swaroopanand
+  - VK Sharma
+  venue: Eden Gardens, Kolkata
+  team_type: club
+innings:
+- 1st innings:
+    team: Kolkata Knight Riders
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rahane
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: AM Rahane
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FH Allen
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: AM Rahane
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: AM Rahane
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: AM Rahane
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: AM Rahane
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          kind: bowled
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raghuvanshi
+    - 4.6:
+        actual_delivery: '4.5'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raghuvanshi
+    - 4.7:
+        actual_delivery: '4.5'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 4.8:
+        actual_delivery: '4.6'
+        non_striker: FH Allen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Raghuvanshi
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: FH Allen
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: FH Allen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: FH Allen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: FH Allen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: FH Allen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: FH Allen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: FH Allen
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: FH Allen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: FH Allen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: FH Allen
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: FH Allen
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FH Allen
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: FH Allen
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: FH Allen
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: A Raghuvanshi
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: A Raghuvanshi
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: A Raghuvanshi
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: A Raghuvanshi
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: A Raghuvanshi
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: A Raghuvanshi
+        bowler: Arshad Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: FH Allen
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - Rashid Khan
+          kind: caught
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: C Green
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: C Green
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: A Raghuvanshi
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: A Raghuvanshi
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: C Green
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: A Raghuvanshi
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: C Green
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: A Raghuvanshi
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raghuvanshi
+    - 18.3:
+        actual_delivery: '18.2'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Raghuvanshi
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: C Green
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: C Green
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: A Raghuvanshi
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Green
+- 2nd innings:
+    team: Gujarat Titans
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: M Pathirana
+            out: FH Allen
+            team: Kolkata Knight Riders
+            reason: impact_player
+        batsman: B Sai Sudharsan
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Sai Sudharsan
+    - 0.6:
+        actual_delivery: '0.5'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 0.8:
+        actual_delivery: '0.6'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 0.9:
+        actual_delivery: '0.6'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Shubman Gill
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: Shubman Gill
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Sai Sudharsan
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Shubman Gill
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        replacements:
+          role:
+          - in: N Sindhu
+            out: B Sai Sudharsan
+            reason: injury
+            role: batter
+        batsman: N Sindhu
+    - 3.2:
+        actual_delivery: '3.1'
+        non_striker: Shubman Gill
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: Shubman Gill
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: Shubman Gill
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sindhu
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: N Sindhu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.6:
+        actual_delivery: '3.5'
+        non_striker: N Sindhu
+        bowler: M Pathirana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 3.7:
+        actual_delivery: '3.5'
+        non_striker: N Sindhu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 3.8:
+        actual_delivery: '3.6'
+        non_striker: N Sindhu
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+        wicket:
+          player_out: N Sindhu
+          fielders:
+          - MK Pandey
+          kind: caught
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shubman Gill
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: JC Buttler
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Shubman Gill
+        bowler: M Pathirana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          role:
+          - in: SR Dubey
+            out: M Pathirana
+            reason: injury
+            role: bowler
+        batsman: Shubman Gill
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Shubman Gill
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: JC Buttler
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: JC Buttler
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: JC Buttler
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: JC Buttler
+        bowler: AS Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Shubman Gill
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Shubman Gill
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: JC Buttler
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 11.4:
+        actual_delivery: '11.3'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.5:
+        actual_delivery: '11.4'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: Shubman Gill
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Shubman Gill
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Shubman Gill
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Shubman Gill
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Shubman Gill
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: JC Buttler
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: JC Buttler
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: JC Buttler
+        bowler: CV Varun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Shubman Gill
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: JC Buttler
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Shubman Gill
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - AS Roy
+          kind: caught
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: B Sai Sudharsan
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: JC Buttler
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: JC Buttler
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: B Sai Sudharsan
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: JC Buttler
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: B Sai Sudharsan
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Ramandeep Singh (sub)
+          kind: caught
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: B Sai Sudharsan
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: R Tewatia
+            out: Mohammed Siraj
+            team: Gujarat Titans
+            reason: impact_player
+        batsman: R Tewatia
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: R Tewatia
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: R Tewatia
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: R Tewatia
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: R Tewatia
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: B Sai Sudharsan
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Tewatia
+        wicket:
+          player_out: R Tewatia
+          fielders:
+          - A Raghuvanshi
+          kind: caught
+    target:
+      overs: 20
+      runs: 248

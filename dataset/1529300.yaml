@@ -1,0 +1,2392 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Raipur
+  competition: IPL
+  dates:
+  - '2026-05-13'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Royal Challengers Bengaluru
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - V Kohli
+  players:
+    Kolkata Knight Riders:
+    - SR Dubey
+    - AM Rahane
+    - FH Allen
+    - A Raghuvanshi
+    - C Green
+    - RK Singh
+    - R Powell
+    - MK Pandey
+    - SP Narine
+    - AS Roy
+    - Kartik Tyagi
+    - VG Arora
+    Royal Challengers Bengaluru:
+    - JA Duffy
+    - JG Bethell
+    - V Kohli
+    - D Padikkal
+    - RM Patidar
+    - TH David
+    - JM Sharma
+    - VR Iyer
+    - KH Pandya
+    - B Kumar
+    - Rasikh Salam
+    - JR Hazlewood
+  registry:
+    people:
+      A Kripal Singh: 8f559207
+      A Raghuvanshi: d7017798
+      AM Rahane: 29e95537
+      AS Roy: e4cdf230
+      B Kumar: 2e81a32d
+      C Green: eaa76d3c
+      D Padikkal: 2c25d4f5
+      FH Allen: bf74b130
+      JA Duffy: dadbdb68
+      JG Bethell: 3c55c703
+      JM Sharma: 800d2d97
+      JR Hazlewood: '03806cf8'
+      KH Pandya: 5b8c830e
+      KM Gandhi: a9421c64
+      Kartik Tyagi: 5d2eea49
+      MK Pandey: 93b4fc78
+      Nitin Menon: e1d41d9e
+      R Pandit: 8a604384
+      R Powell: 650d5e49
+      RK Singh: 0a509d6b
+      RM Patidar: c740ea83
+      Rasikh Salam: b8527c3d
+      SP Narine: 9d430b40
+      SR Dubey: '11061889'
+      TH David: f1f99156
+      TM Srivastava: a76d10ba
+      V Kohli: ba607b88
+      VG Arora: 7c3b3b78
+      VR Iyer: a24be938
+  teams:
+  - Kolkata Knight Riders
+  - Royal Challengers Bengaluru
+  toss:
+    winner: Royal Challengers Bengaluru
+    decision: field
+  umpires:
+  - Nitin Menon
+  - R Pandit
+  venue: Shaheed Veer Narayan Singh International Stadium, Raipur
+  team_type: club
+innings:
+- 1st innings:
+    team: Kolkata Knight Riders
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: FH Allen
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: FH Allen
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AM Rahane
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: FH Allen
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FH Allen
+        wicket:
+          player_out: FH Allen
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: AM Rahane
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Raghuvanshi
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: AM Rahane
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AM Rahane
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: AM Rahane
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AM Rahane
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AM Rahane
+        wicket:
+          player_out: AM Rahane
+          kind: caught and bowled
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: C Green
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: C Green
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: C Green
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: C Green
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: C Green
+        bowler: JR Hazlewood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Raghuvanshi
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: C Green
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: C Green
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: C Green
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: C Green
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: C Green
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: C Green
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: C Green
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: C Green
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Green
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Raghuvanshi
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: C Green
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Green
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Green
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: C Green
+    - 12.3:
+        actual_delivery: '12.2'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Green
+        wicket:
+          player_out: C Green
+          kind: bowled
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: RK Singh
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 12.6:
+        actual_delivery: '12.5'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: RK Singh
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: RK Singh
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: A Raghuvanshi
+        bowler: JA Duffy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: RK Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: D Padikkal
+            out: JA Duffy
+            team: Royal Challengers Bengaluru
+            reason: impact_player
+        batsman: A Raghuvanshi
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: RK Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: A Raghuvanshi
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: RK Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Raghuvanshi
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: RK Singh
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: RK Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: RK Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: RK Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: RK Singh
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Raghuvanshi
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: RK Singh
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: RK Singh
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: A Raghuvanshi
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: RK Singh
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Raghuvanshi
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RK Singh
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: RK Singh
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: A Raghuvanshi
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RK Singh
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: RK Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RK Singh
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RK Singh
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: RK Singh
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Raghuvanshi
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: A Raghuvanshi
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RK Singh
+        wicket:
+          player_out: A Raghuvanshi
+          fielders:
+          - D Padikkal
+          - B Kumar
+          kind: run out
+- 2nd innings:
+    team: Royal Challengers Bengaluru
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: SR Dubey
+            out: FH Allen
+            team: Kolkata Knight Riders
+            reason: impact_player
+        batsman: JG Bethell
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JG Bethell
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: JG Bethell
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: JG Bethell
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: JG Bethell
+        bowler: VG Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: V Kohli
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JG Bethell
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: JG Bethell
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: JG Bethell
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: JG Bethell
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JG Bethell
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: JG Bethell
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: JG Bethell
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          kind: caught and bowled
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: D Padikkal
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: D Padikkal
+        bowler: Kartik Tyagi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 5.2:
+        actual_delivery: '5.1'
+        non_striker: D Padikkal
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 5.3:
+        actual_delivery: '5.2'
+        non_striker: D Padikkal
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: D Padikkal
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: D Padikkal
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: V Kohli
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: V Kohli
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: V Kohli
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 7.7:
+        actual_delivery: '7.6'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 8.6:
+        actual_delivery: '8.5'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 8.7:
+        actual_delivery: '8.6'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Padikkal
+    - 8.8:
+        actual_delivery: '8.6'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: D Padikkal
+    - 8.9:
+        actual_delivery: '8.6'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: V Kohli
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: D Padikkal
+        bowler: C Green
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Padikkal
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: D Padikkal
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: D Padikkal
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: D Padikkal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: D Padikkal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: D Padikkal
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+        wicket:
+          player_out: D Padikkal
+          fielders:
+          - AM Rahane
+          kind: caught
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Patidar
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: RM Patidar
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: RM Patidar
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: RM Patidar
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: RM Patidar
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: RM Patidar
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Patidar
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: RM Patidar
+        bowler: VG Arora
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Kohli
+    - 14.8:
+        actual_delivery: '14.6'
+        non_striker: RM Patidar
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Patidar
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: RM Patidar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: RM Patidar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: RM Patidar
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Patidar
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: V Kohli
+        bowler: SP Narine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Patidar
+        wicket:
+          player_out: RM Patidar
+          fielders:
+          - AM Rahane
+          kind: caught
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: TH David
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: TH David
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: TH David
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Kohli
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: TH David
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: TH David
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TH David
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: V Kohli
+        bowler: AS Roy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TH David
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: TH David
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: TH David
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: TH David
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TH David
+        wicket:
+          player_out: TH David
+          fielders:
+          - MK Pandey
+          kind: caught
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: V Kohli
+        bowler: Kartik Tyagi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: JM Sharma
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: JM Sharma
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: JM Sharma
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: V Kohli
+        bowler: VG Arora
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Sharma
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: V Kohli
+        bowler: SR Dubey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Sharma
+    target:
+      overs: 20
+      runs: 193

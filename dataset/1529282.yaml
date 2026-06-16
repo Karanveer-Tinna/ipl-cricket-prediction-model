@@ -1,0 +1,1444 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-04-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  competition: IPL
+  dates:
+  - '2026-04-27'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Royal Challengers Bengaluru
+    by:
+      wickets: 9
+  overs: 20
+  player_of_match:
+  - JR Hazlewood
+  players:
+    Delhi Capitals:
+    - SU Parakh
+    - KL Rahul
+    - N Rana
+    - Sameer Rizvi
+    - T Stubbs
+    - AR Patel
+    - Abishek Porel
+    - DA Miller
+    - KA Jamieson
+    - Kuldeep Yadav
+    - PVD Chameera
+    - T Natarajan
+    Royal Challengers Bengaluru:
+    - Suyash Sharma
+    - JG Bethell
+    - V Kohli
+    - D Padikkal
+    - RM Patidar
+    - JM Sharma
+    - TH David
+    - R Shepherd
+    - KH Pandya
+    - B Kumar
+    - JR Hazlewood
+    - Rasikh Salam
+  registry:
+    people:
+      AK Argal: 0ee78cf3
+      AR Patel: 2e171977
+      Abishek Porel: ad3b6e95
+      B Kumar: 2e81a32d
+      D Padikkal: 2c25d4f5
+      DA Miller: d67d5f00
+      HAS Khalid: 291ded7c
+      JG Bethell: 3c55c703
+      JM Sharma: 800d2d97
+      JR Hazlewood: '03806cf8'
+      KA Jamieson: 68c56d09
+      KH Pandya: 5b8c830e
+      KL Rahul: b17e2f24
+      Kuldeep Yadav: 8d2c70ad
+      M Krishnadas: e298c588
+      N Rana: fb2d1dda
+      PVD Chameera: 327b58d3
+      R Shepherd: c5aef772
+      RM Patidar: c740ea83
+      Rasikh Salam: b8527c3d
+      SJ Nogajski: 9b3f9323
+      SU Parakh: 926c7443
+      Sameer Rizvi: f89d3b11
+      Suyash Sharma: 9440ef41
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      TH David: f1f99156
+      V Kohli: ba607b88
+      V Narayan Kutty: 4bacee3d
+  teams:
+  - Delhi Capitals
+  - Royal Challengers Bengaluru
+  toss:
+    winner: Royal Challengers Bengaluru
+    decision: field
+  umpires:
+  - AK Argal
+  - SJ Nogajski
+  venue: Arun Jaitley Stadium, Delhi
+  team_type: club
+innings:
+- 1st innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SU Parakh
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SU Parakh
+        wicket:
+          player_out: SU Parakh
+          kind: bowled
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: KL Rahul
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: N Rana
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+        wicket:
+          player_out: KL Rahul
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: N Rana
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sameer Rizvi
+        wicket:
+          player_out: Sameer Rizvi
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: N Rana
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Stubbs
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: N Rana
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Stubbs
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: T Stubbs
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Stubbs
+        wicket:
+          player_out: T Stubbs
+          fielders:
+          - D Padikkal
+          kind: caught
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AR Patel
+        wicket:
+          player_out: AR Patel
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Abishek Porel
+            out: SU Parakh
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: Abishek Porel
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Abishek Porel
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: N Rana
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - D Padikkal
+          kind: caught
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Abishek Porel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Abishek Porel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Abishek Porel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: Abishek Porel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: Abishek Porel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DA Miller
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: Abishek Porel
+        bowler: B Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Abishek Porel
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: DA Miller
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: DA Miller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: DA Miller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: DA Miller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abishek Porel
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: DA Miller
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: DA Miller
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DA Miller
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: Abishek Porel
+        bowler: Rasikh Salam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DA Miller
+        wicket:
+          player_out: DA Miller
+          fielders:
+          - JM Sharma
+          kind: caught
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: KA Jamieson
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: KA Jamieson
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: KA Jamieson
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: KA Jamieson
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: KA Jamieson
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: KA Jamieson
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KA Jamieson
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KA Jamieson
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Abishek Porel
+        bowler: R Shepherd
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KA Jamieson
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KA Jamieson
+    - 11.3:
+        actual_delivery: '11.2'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.4:
+        actual_delivery: '11.3'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.5:
+        actual_delivery: '11.4'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: KA Jamieson
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Abishek Porel
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: KA Jamieson
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Abishek Porel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KA Jamieson
+        wicket:
+          player_out: KA Jamieson
+          kind: lbw
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Abishek Porel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Kuldeep Yadav
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Kuldeep Yadav
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Kuldeep Yadav
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kuldeep Yadav
+    - 13.4:
+        actual_delivery: '13.3'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 13.5:
+        actual_delivery: '13.4'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 13.6:
+        actual_delivery: '13.5'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 13.7:
+        actual_delivery: '13.6'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Kuldeep Yadav
+    - 13.8:
+        actual_delivery: '13.6'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Kuldeep Yadav
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Kuldeep Yadav
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Abishek Porel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Kuldeep Yadav
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Kuldeep Yadav
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Abishek Porel
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Abishek Porel
+        bowler: KH Pandya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kuldeep Yadav
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kuldeep Yadav
+        wicket:
+          player_out: Kuldeep Yadav
+          kind: bowled
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Abishek Porel
+        bowler: Suyash Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PVD Chameera
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: PVD Chameera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: PVD Chameera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Abishek Porel
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: PVD Chameera
+        bowler: JR Hazlewood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abishek Porel
+        wicket:
+          player_out: Abishek Porel
+          kind: bowled
+- 2nd innings:
+    team: Royal Challengers Bengaluru
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: JG Bethell
+            out: Suyash Sharma
+            team: Royal Challengers Bengaluru
+            reason: impact_player
+        batsman: JG Bethell
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JG Bethell
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: V Kohli
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JG Bethell
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Kohli
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: JG Bethell
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: JG Bethell
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JG Bethell
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JG Bethell
+        wicket:
+          player_out: JG Bethell
+          fielders:
+          - T Natarajan
+          kind: caught
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: V Kohli
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: V Kohli
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Padikkal
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: V Kohli
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: D Padikkal
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: V Kohli
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: V Kohli
+        bowler: PVD Chameera
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: D Padikkal
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Padikkal
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Padikkal
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Padikkal
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: V Kohli
+        bowler: KA Jamieson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: D Padikkal
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: D Padikkal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: D Padikkal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: V Kohli
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: D Padikkal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: V Kohli
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Padikkal
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: D Padikkal
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Kohli
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: D Padikkal
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Kohli
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: D Padikkal
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: D Padikkal
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Kohli
+    target:
+      overs: 20
+      runs: 76

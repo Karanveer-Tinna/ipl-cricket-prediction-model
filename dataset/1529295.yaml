@@ -1,0 +1,2315 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Jaipur
+  competition: IPL
+  dates:
+  - '2026-05-09'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gujarat Titans
+    by:
+      runs: 77
+  overs: 20
+  player_of_match:
+  - Rashid Khan
+  players:
+    Gujarat Titans:
+    - R Sai Kishore
+    - B Sai Sudharsan
+    - Shubman Gill
+    - JC Buttler
+    - Washington Sundar
+    - JO Holder
+    - R Tewatia
+    - N Sindhu
+    - Rashid Khan
+    - Arshad Khan
+    - K Rabada
+    - Mohammed Siraj
+    Rajasthan Royals:
+    - Yash Raj Punja
+    - YBK Jaiswal
+    - V Suryavanshi
+    - Dhruv Jurel
+    - SO Hetmyer
+    - RA Jadeja
+    - D Ferreira
+    - SB Dubey
+    - MD Shanaka
+    - JC Archer
+    - TU Deshpande
+    - Brijesh Sharma
+  registry:
+    people:
+      AK Argal: 0ee78cf3
+      Arshad Khan: '12314277'
+      B Sai Sudharsan: d5130a30
+      Brijesh Sharma: 133bbd61
+      D Ferreira: f0af99a7
+      Dhruv Jurel: bcf325d2
+      HAS Khalid: 291ded7c
+      JC Archer: 5574750c
+      JC Buttler: 99b75528
+      JO Holder: 0f721006
+      K Rabada: e62dd25d
+      MD Shanaka: 3ff033bb
+      Mohammed Siraj: 2f49c897
+      N Sindhu: 3cea23da
+      R Sai Kishore: c7a995d3
+      R Seth: 540a44ba
+      R Tewatia: 39a2dfa8
+      RA Jadeja: fe93fd9d
+      Rashid Khan: 5f547c8b
+      SB Dubey: 6b2ff18f
+      SJ Nogajski: 9b3f9323
+      SO Hetmyer: 48a1d7b7
+      Shubman Gill: b4b99816
+      TU Deshpande: 46a9bea1
+      V Suryavanshi: 470f446b
+      VK Sharma: a7a49df4
+      Washington Sundar: f19ccfad
+      YBK Jaiswal: 6c19c6e5
+      Yash Raj Punja: 02dfebbe
+  teams:
+  - Gujarat Titans
+  - Rajasthan Royals
+  toss:
+    winner: Rajasthan Royals
+    decision: field
+  umpires:
+  - HAS Khalid
+  - VK Sharma
+  venue: Sawai Mansingh Stadium, Jaipur
+  team_type: club
+innings:
+- 1st innings:
+    team: Gujarat Titans
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 0.3:
+        actual_delivery: '0.2'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 0.4:
+        actual_delivery: '0.3'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: B Sai Sudharsan
+    - 0.5:
+        actual_delivery: '0.3'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Shubman Gill
+    - 0.6:
+        actual_delivery: '0.3'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 0.7:
+        actual_delivery: '0.3'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 0.8:
+        actual_delivery: '0.3'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.9:
+        actual_delivery: '0.4'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 0.10:
+        actual_delivery: '0.5'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 0.11:
+        actual_delivery: '0.6'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: B Sai Sudharsan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 2.3:
+        actual_delivery: '2.2'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: B Sai Sudharsan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: B Sai Sudharsan
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Shubman Gill
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: B Sai Sudharsan
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: B Sai Sudharsan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: B Sai Sudharsan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Shubman Gill
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: B Sai Sudharsan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: B Sai Sudharsan
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: B Sai Sudharsan
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 6.7:
+        actual_delivery: '6.6'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: B Sai Sudharsan
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: B Sai Sudharsan
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+        wicket:
+          player_out: B Sai Sudharsan
+          fielders:
+          - JC Archer
+          kind: caught
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: JC Buttler
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: JC Buttler
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: JC Buttler
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JC Buttler
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Shubman Gill
+        bowler: Yash Raj Punja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: JC Buttler
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: JC Buttler
+        bowler: Yash Raj Punja
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shubman Gill
+    - 12.7:
+        actual_delivery: '12.6'
+        non_striker: JC Buttler
+        bowler: Yash Raj Punja
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - D Ferreira
+          kind: caught
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Washington Sundar
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Shubman Gill
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Washington Sundar
+        bowler: RA Jadeja
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Shubman Gill
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        replacements:
+          match:
+          - in: V Suryavanshi
+            out: Yash Raj Punja
+            team: Rajasthan Royals
+            reason: impact_player
+        batsman: Washington Sundar
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Shubman Gill
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Washington Sundar
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Washington Sundar
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: Washington Sundar
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Shubman Gill
+        bowler: D Ferreira
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Washington Sundar
+    - 15.2:
+        actual_delivery: '15.1'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washington Sundar
+    - 15.3:
+        actual_delivery: '15.2'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.4:
+        actual_delivery: '15.3'
+        non_striker: Washington Sundar
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shubman Gill
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: Washington Sundar
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: Shubman Gill
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Washington Sundar
+        bowler: JC Archer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Washington Sundar
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shubman Gill
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Washington Sundar
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - TU Deshpande
+          kind: caught
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Washington Sundar
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: JO Holder
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: JO Holder
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: JO Holder
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washington Sundar
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JO Holder
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: JO Holder
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Washington Sundar
+    - 17.4:
+        actual_delivery: '17.3'
+        non_striker: JO Holder
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Washington Sundar
+        bowler: Brijesh Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Holder
+    - 18.2:
+        actual_delivery: '18.1'
+        non_striker: Washington Sundar
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+        wicket:
+          player_out: JO Holder
+          fielders:
+          - YBK Jaiswal
+          kind: caught
+    - 18.3:
+        actual_delivery: '18.2'
+        non_striker: Washington Sundar
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: R Tewatia
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Washington Sundar
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: R Tewatia
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: R Tewatia
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: R Tewatia
+        bowler: Brijesh Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Tewatia
+    - 19.2:
+        actual_delivery: '19.1'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Tewatia
+    - 19.3:
+        actual_delivery: '19.2'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Tewatia
+    - 19.4:
+        actual_delivery: '19.3'
+        non_striker: Washington Sundar
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Tewatia
+    - 19.5:
+        actual_delivery: '19.4'
+        non_striker: R Tewatia
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washington Sundar
+    - 19.6:
+        actual_delivery: '19.5'
+        non_striker: R Tewatia
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 19.7:
+        actual_delivery: '19.6'
+        non_striker: R Tewatia
+        bowler: TU Deshpande
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+- 2nd innings:
+    team: Rajasthan Royals
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: V Suryavanshi
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YBK Jaiswal
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Suryavanshi
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Suryavanshi
+    - 0.7:
+        actual_delivery: '0.6'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Suryavanshi
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: V Suryavanshi
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: YBK Jaiswal
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Suryavanshi
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Suryavanshi
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Suryavanshi
+        wicket:
+          player_out: V Suryavanshi
+          fielders:
+          - Arshad Khan
+          kind: caught
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: YBK Jaiswal
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: R Sai Kishore
+            out: R Tewatia
+            team: Gujarat Titans
+            reason: impact_player
+        batsman: Dhruv Jurel
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YBK Jaiswal
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YBK Jaiswal
+        wicket:
+          player_out: YBK Jaiswal
+          fielders:
+          - N Sindhu
+          kind: caught
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: SO Hetmyer
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dhruv Jurel
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: SO Hetmyer
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dhruv Jurel
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: SO Hetmyer
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: SO Hetmyer
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dhruv Jurel
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: SO Hetmyer
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: SO Hetmyer
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Dhruv Jurel
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SO Hetmyer
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SO Hetmyer
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SO Hetmyer
+        wicket:
+          player_out: SO Hetmyer
+          fielders:
+          - JO Holder
+          kind: caught
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Jadeja
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Dhruv Jurel
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: RA Jadeja
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: Dhruv Jurel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: RA Jadeja
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dhruv Jurel
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Dhruv Jurel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Dhruv Jurel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: Dhruv Jurel
+        bowler: R Sai Kishore
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: Dhruv Jurel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: Dhruv Jurel
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dhruv Jurel
+        wicket:
+          player_out: Dhruv Jurel
+          kind: bowled
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Ferreira
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Ferreira
+        wicket:
+          player_out: D Ferreira
+          kind: bowled
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: RA Jadeja
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: RA Jadeja
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: RA Jadeja
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SB Dubey
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: SB Dubey
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: SB Dubey
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: RA Jadeja
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: RA Jadeja
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SB Dubey
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: SB Dubey
+        bowler: Washington Sundar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RA Jadeja
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SB Dubey
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SB Dubey
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SB Dubey
+        wicket:
+          player_out: SB Dubey
+          kind: bowled
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RA Jadeja
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: RA Jadeja
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RA Jadeja
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: RA Jadeja
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: MD Shanaka
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: RA Jadeja
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: RA Jadeja
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: MD Shanaka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: MD Shanaka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RA Jadeja
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: MD Shanaka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RA Jadeja
+        wicket:
+          player_out: RA Jadeja
+          kind: lbw
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: MD Shanaka
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Archer
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Archer
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Archer
+        wicket:
+          player_out: JC Archer
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: MD Shanaka
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TU Deshpande
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: TU Deshpande
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: MD Shanaka
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TU Deshpande
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: TU Deshpande
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MD Shanaka
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: TU Deshpande
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MD Shanaka
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: TU Deshpande
+        bowler: Mohammed Siraj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MD Shanaka
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: TU Deshpande
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: TU Deshpande
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MD Shanaka
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: TU Deshpande
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MD Shanaka
+        wicket:
+          player_out: MD Shanaka
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: TU Deshpande
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Brijesh Sharma
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Brijesh Sharma
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TU Deshpande
+        wicket:
+          player_out: TU Deshpande
+          fielders:
+          - Washington Sundar
+          kind: caught
+    target:
+      overs: 20
+      runs: 230

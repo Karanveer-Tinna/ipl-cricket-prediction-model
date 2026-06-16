@@ -1,0 +1,2465 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-04-27'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Delhi
+  competition: IPL
+  dates:
+  - '2026-04-25'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Punjab Kings
+    by:
+      wickets: 6
+  overs: 20
+  player_of_match:
+  - KL Rahul
+  players:
+    Delhi Capitals:
+    - Auqib Nabi
+    - V Nigam
+    - P Nissanka
+    - KL Rahul
+    - N Rana
+    - DA Miller
+    - Sameer Rizvi
+    - AR Patel
+    - T Stubbs
+    - L Ngidi
+    - Kuldeep Yadav
+    - T Natarajan
+    - Mukesh Kumar
+    Punjab Kings:
+    - YS Chahal
+    - Priyansh Arya
+    - P Simran Singh
+    - C Connolly
+    - SS Iyer
+    - N Wadhera
+    - Shashank Singh
+    - MP Stoinis
+    - M Jansen
+    - XC Bartlett
+    - Vijaykumar Vyshak
+    - Arshdeep Singh
+  registry:
+    people:
+      AK Argal: 0ee78cf3
+      AR Patel: 2e171977
+      Arshdeep Singh: 244048f6
+      Auqib Nabi: 7c3c0337
+      C Connolly: fe366f34
+      DA Miller: d67d5f00
+      HAS Khalid: 291ded7c
+      K Swaroopanand: aa2a4962
+      KK Nair: 944533a5
+      KL Rahul: b17e2f24
+      Kuldeep Yadav: 8d2c70ad
+      L Ngidi: f834dcfc
+      M Jansen: 81c36ee9
+      MP Stoinis: d9273ee7
+      Mukesh Kumar: 2cffab74
+      N Rana: fb2d1dda
+      N Wadhera: d1a60072
+      P Nissanka: 8ee36b18
+      P Simran Singh: 9418198b
+      Priyansh Arya: b5797845
+      SS Iyer: 85ec8e33
+      Sameer Rizvi: f89d3b11
+      Shashank Singh: 26989d80
+      T Natarajan: ce794613
+      T Stubbs: 85b3fab2
+      V Narayan Kutty: 4bacee3d
+      V Nigam: 5ffc0565
+      VK Sharma: a7a49df4
+      Vijaykumar Vyshak: 54e52590
+      XC Bartlett: 3b53243a
+      YS Chahal: 57ee1fde
+  teams:
+  - Delhi Capitals
+  - Punjab Kings
+  toss:
+    winner: Delhi Capitals
+    decision: bat
+  umpires:
+  - AK Argal
+  - VK Sharma
+  venue: Arun Jaitley Stadium, Delhi
+  team_type: club
+innings:
+- 1st innings:
+    team: Delhi Capitals
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: P Nissanka
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: P Nissanka
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: P Nissanka
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: P Nissanka
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: P Nissanka
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Nissanka
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: P Nissanka
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Nissanka
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: P Nissanka
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: P Nissanka
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: P Nissanka
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Nissanka
+        wicket:
+          player_out: P Nissanka
+          fielders:
+          - P Simran Singh
+          kind: caught
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: N Rana
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Rana
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: KL Rahul
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: KL Rahul
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: KL Rahul
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: KL Rahul
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: N Rana
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: N Rana
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: N Rana
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Rana
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: KL Rahul
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: KL Rahul
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: KL Rahul
+    - 10.3:
+        actual_delivery: '10.2'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 10.4:
+        actual_delivery: '10.3'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 12.2:
+        actual_delivery: '12.1'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 12.3:
+        actual_delivery: '12.2'
+        non_striker: KL Rahul
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 12.4:
+        actual_delivery: '12.3'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 12.5:
+        actual_delivery: '12.4'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 12.6:
+        actual_delivery: '12.4'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 12.7:
+        actual_delivery: '12.5'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 12.8:
+        actual_delivery: '12.6'
+        non_striker: N Rana
+        bowler: MP Stoinis
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: N Rana
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: N Rana
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: N Rana
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: N Rana
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: N Rana
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KL Rahul
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 15.4:
+        actual_delivery: '15.3'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KL Rahul
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: N Rana
+        bowler: Vijaykumar Vyshak
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Rana
+    - 16.3:
+        actual_delivery: '16.2'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 16.4:
+        actual_delivery: '16.3'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 16.5:
+        actual_delivery: '16.3'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.6:
+        actual_delivery: '16.4'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 16.7:
+        actual_delivery: '16.5'
+        non_striker: N Rana
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 16.8:
+        actual_delivery: '16.6'
+        non_striker: KL Rahul
+        bowler: YS Chahal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        replacements:
+          match:
+          - in: N Wadhera
+            out: YS Chahal
+            team: Punjab Kings
+            reason: impact_player
+        batsman: KL Rahul
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Rahul
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: KL Rahul
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Rana
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: N Rana
+        bowler: M Jansen
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Rana
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Rana
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Rana
+        wicket:
+          player_out: N Rana
+          fielders:
+          - SS Iyer
+          kind: caught
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: KL Rahul
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: DA Miller
+        bowler: XC Bartlett
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KL Rahul
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: DA Miller
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: DA Miller
+        bowler: XC Bartlett
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: KL Rahul
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DA Miller
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Rahul
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: DA Miller
+        bowler: Arshdeep Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Rahul
+- 2nd innings:
+    team: Punjab Kings
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        replacements:
+          match:
+          - in: Auqib Nabi
+            out: P Nissanka
+            team: Delhi Capitals
+            reason: impact_player
+        batsman: Priyansh Arya
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Priyansh Arya
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Simran Singh
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: P Simran Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyansh Arya
+    - 2.4:
+        actual_delivery: '2.3'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 2.5:
+        actual_delivery: '2.4'
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 2.6:
+        actual_delivery: '2.5'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 2.7:
+        actual_delivery: '2.6'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 7
+          batsman: 6
+        extras:
+          noballs: 1
+        replacements:
+          match:
+          - in: V Nigam
+            out: L Ngidi
+            team: Delhi Capitals
+            reason: concussion_substitute
+        batsman: P Simran Singh
+    - 3.2:
+        actual_delivery: '3.1'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 3.3:
+        actual_delivery: '3.2'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 3.4:
+        actual_delivery: '3.3'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: P Simran Singh
+    - 3.5:
+        actual_delivery: '3.4'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 3.6:
+        actual_delivery: '3.4'
+        non_striker: Priyansh Arya
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 3.7:
+        actual_delivery: '3.5'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Priyansh Arya
+    - 3.8:
+        actual_delivery: '3.6'
+        non_striker: P Simran Singh
+        bowler: Auqib Nabi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Priyansh Arya
+    - 4.3:
+        actual_delivery: '4.2'
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+    - 4.4:
+        actual_delivery: '4.3'
+        non_striker: P Simran Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 4.5:
+        actual_delivery: '4.4'
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Simran Singh
+    - 4.6:
+        actual_delivery: '4.4'
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+    - 4.7:
+        actual_delivery: '4.5'
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 4.8:
+        actual_delivery: '4.6'
+        non_striker: Priyansh Arya
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: Priyansh Arya
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Priyansh Arya
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Priyansh Arya
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Simran Singh
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Priyansh Arya
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Simran Singh
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priyansh Arya
+        wicket:
+          player_out: Priyansh Arya
+          fielders:
+          - Sameer Rizvi
+          kind: caught
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: P Simran Singh
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Connolly
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: P Simran Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: C Connolly
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Simran Singh
+        wicket:
+          player_out: P Simran Singh
+          kind: lbw
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: C Connolly
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: SS Iyer
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: C Connolly
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: SS Iyer
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: C Connolly
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: C Connolly
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: SS Iyer
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Connolly
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: C Connolly
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Connolly
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Connolly
+        wicket:
+          player_out: C Connolly
+          kind: bowled
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: N Wadhera
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: N Wadhera
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: N Wadhera
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: SS Iyer
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: N Wadhera
+        bowler: V Nigam
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: N Wadhera
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: N Wadhera
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: N Wadhera
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: N Wadhera
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: N Wadhera
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Wadhera
+    - 11.4:
+        actual_delivery: '11.3'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 11.5:
+        actual_delivery: '11.4'
+        non_striker: N Wadhera
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SS Iyer
+    - 11.6:
+        actual_delivery: '11.5'
+        non_striker: N Wadhera
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 11.7:
+        actual_delivery: '11.6'
+        non_striker: SS Iyer
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: N Wadhera
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: SS Iyer
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: N Wadhera
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: SS Iyer
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: N Wadhera
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: N Wadhera
+        bowler: AR Patel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Wadhera
+    - 13.2:
+        actual_delivery: '13.1'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Wadhera
+    - 13.3:
+        actual_delivery: '13.1'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 13.4:
+        actual_delivery: '13.2'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Wadhera
+    - 13.5:
+        actual_delivery: '13.2'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 13.6:
+        actual_delivery: '13.3'
+        non_striker: N Wadhera
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 13.7:
+        actual_delivery: '13.4'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Wadhera
+    - 13.8:
+        actual_delivery: '13.5'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Wadhera
+    - 13.9:
+        actual_delivery: '13.6'
+        non_striker: N Wadhera
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: SS Iyer
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: SS Iyer
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Wadhera
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: SS Iyer
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Wadhera
+        wicket:
+          player_out: N Wadhera
+          fielders:
+          - KK Nair (sub)
+          kind: caught
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: SS Iyer
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: SS Iyer
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: Shashank Singh
+        bowler: V Nigam
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SS Iyer
+    - 15.5:
+        actual_delivery: '15.4'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.6:
+        actual_delivery: '15.5'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 15.7:
+        actual_delivery: '15.6'
+        non_striker: Shashank Singh
+        bowler: Kuldeep Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Shashank Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Shashank Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Shashank Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SS Iyer
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Shashank Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashank Singh
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Shashank Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Shashank Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shashank Singh
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: SS Iyer
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Shashank Singh
+        bowler: Mukesh Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Iyer
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shashank Singh
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shashank Singh
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shashank Singh
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Shashank Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SS Iyer
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Shashank Singh
+        bowler: T Natarajan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SS Iyer
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: SS Iyer
+        bowler: T Natarajan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Shashank Singh
+    target:
+      overs: 20
+      runs: 265

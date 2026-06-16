@@ -1,0 +1,2454 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Chennai
+  competition: IPL
+  dates:
+  - '2026-05-10'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Chennai Super Kings
+    by:
+      wickets: 5
+  overs: 20
+  player_of_match:
+  - J Overton
+  players:
+    Lucknow Super Giants:
+    - JP Inglis
+    - MR Marsh
+    - N Pooran
+    - RR Pant
+    - AK Markram
+    - Akshat Raghuwanshi
+    - Shahbaz Ahmed
+    - Himmat Singh
+    - Mohammed Shami
+    - Avesh Khan
+    - Prince Yadav
+    - DS Rathi
+    Chennai Super Kings:
+    - Mukesh Choudhary
+    - SV Samson
+    - RD Gaikwad
+    - Urvil Patel
+    - Kartik Sharma
+    - D Brevis
+    - S Dube
+    - PR Veer
+    - J Overton
+    - AJ Hosein
+    - Noor Ahmad
+    - A Kamboj
+  registry:
+    people:
+      A Bengeri: c109497d
+      A Kamboj: fcc21ace
+      AJ Hosein: 4d7f517e
+      AK Markram: 6a26221c
+      Akshat Raghuwanshi: d8d67045
+      Amit Rana: f5db088b
+      Avesh Khan: eef2536f
+      D Brevis: 844e79d1
+      DS Manohar: b35f3ac8
+      DS Rathi: 13fc5c6d
+      Himmat Singh: ebcfef83
+      J Overton: 59559bc2
+      JP Inglis: 989889ff
+      K Kelkar: 1d88908d
+      Kartik Sharma: 7b679de5
+      MR Marsh: 3d8feaf8
+      Mohammed Shami: 8cf9814c
+      Mukesh Choudhary: 765a4731
+      N Pooran: 3241e3fd
+      Noor Ahmad: efc04be7
+      PR Veer: e148e6bd
+      Prince Yadav: 80b2fb19
+      RD Gaikwad: 45a43fe2
+      RR Pant: 919a3be2
+      S Dube: a4e37e47
+      SN Khan: f088b960
+      SV Samson: a4cc73aa
+      Shahbaz Ahmed: f9e6e7ef
+      T Ematty: e995f8e9
+      Urvil Patel: cf59b3f0
+  teams:
+  - Lucknow Super Giants
+  - Chennai Super Kings
+  toss:
+    winner: Chennai Super Kings
+    decision: field
+  umpires:
+  - Amit Rana
+  - K Kelkar
+  venue: MA Chidambaram Stadium, Chepauk, Chennai
+  team_type: club
+innings:
+- 1st innings:
+    team: Lucknow Super Giants
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: JP Inglis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: JP Inglis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: JP Inglis
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MR Marsh
+    - 1.2:
+        actual_delivery: '1.1'
+        non_striker: JP Inglis
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.3:
+        actual_delivery: '1.2'
+        non_striker: JP Inglis
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.4:
+        actual_delivery: '1.3'
+        non_striker: JP Inglis
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+    - 1.5:
+        actual_delivery: '1.4'
+        non_striker: JP Inglis
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 1.6:
+        actual_delivery: '1.5'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 1.7:
+        actual_delivery: '1.6'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: JP Inglis
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: MR Marsh
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: JP Inglis
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: MR Marsh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: MR Marsh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JP Inglis
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: MR Marsh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: MR Marsh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: MR Marsh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: JP Inglis
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MR Marsh
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: MR Marsh
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: JP Inglis
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MR Marsh
+        wicket:
+          player_out: MR Marsh
+          fielders:
+          - D Brevis
+          kind: caught
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: JP Inglis
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Pooran
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: N Pooran
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: N Pooran
+        bowler: A Kamboj
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: JP Inglis
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: N Pooran
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JP Inglis
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: N Pooran
+        bowler: A Kamboj
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JP Inglis
+    - 5.7:
+        actual_delivery: '5.5'
+        non_striker: N Pooran
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 5.8:
+        actual_delivery: '5.6'
+        non_striker: JP Inglis
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: N Pooran
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Pooran
+        wicket:
+          player_out: N Pooran
+          fielders:
+          - SN Khan (sub)
+          kind: caught
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: RR Pant
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: JP Inglis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RR Pant
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: RR Pant
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: JP Inglis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: JP Inglis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: JP Inglis
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: RR Pant
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JP Inglis
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: RR Pant
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: RR Pant
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: RR Pant
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JP Inglis
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: JP Inglis
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RR Pant
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: RR Pant
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JP Inglis
+        wicket:
+          player_out: JP Inglis
+          fielders:
+          - SV Samson
+          kind: caught
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: RR Pant
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: AK Markram
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RR Pant
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: AK Markram
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RR Pant
+        wicket:
+          player_out: RR Pant
+          kind: bowled
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: AK Markram
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Akshat Raghuwanshi
+    - 9.6:
+        actual_delivery: '9.5'
+        non_striker: AK Markram
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 9.7:
+        actual_delivery: '9.6'
+        non_striker: Akshat Raghuwanshi
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Markram
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Akshat Raghuwanshi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akshat Raghuwanshi
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Akshat Raghuwanshi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshat Raghuwanshi
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Akshat Raghuwanshi
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: AK Markram
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Akshat Raghuwanshi
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: AK Markram
+        bowler: Noor Ahmad
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Akshat Raghuwanshi
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Akshat Raghuwanshi
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Markram
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: AK Markram
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: AK Markram
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+        wicket:
+          player_out: AK Markram
+          fielders:
+          - D Brevis
+          kind: run out
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Shahbaz Ahmed
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshat Raghuwanshi
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Shahbaz Ahmed
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Akshat Raghuwanshi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Shahbaz Ahmed
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Akshat Raghuwanshi
+        bowler: AJ Hosein
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahbaz Ahmed
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: Shahbaz Ahmed
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Akshat Raghuwanshi
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Shahbaz Ahmed
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Akshat Raghuwanshi
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Shahbaz Ahmed
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Akshat Raghuwanshi
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Shahbaz Ahmed
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Akshat Raghuwanshi
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: Akshat Raghuwanshi
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Shahbaz Ahmed
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshat Raghuwanshi
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Shahbaz Ahmed
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Akshat Raghuwanshi
+    - 14.3:
+        actual_delivery: '14.2'
+        non_striker: Shahbaz Ahmed
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Akshat Raghuwanshi
+        wicket:
+          player_out: Akshat Raghuwanshi
+          fielders:
+          - Urvil Patel
+          kind: caught
+    - 14.4:
+        actual_delivery: '14.3'
+        non_striker: Shahbaz Ahmed
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Himmat Singh
+    - 14.5:
+        actual_delivery: '14.4'
+        non_striker: Shahbaz Ahmed
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Himmat Singh
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: Shahbaz Ahmed
+        bowler: J Overton
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Himmat Singh
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Shahbaz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Himmat Singh
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Shahbaz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Himmat Singh
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Himmat Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: Shahbaz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Himmat Singh
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Shahbaz Ahmed
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Himmat Singh
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Himmat Singh
+        bowler: Noor Ahmad
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: Shahbaz Ahmed
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Himmat Singh
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Himmat Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Himmat Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Shahbaz Ahmed
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Himmat Singh
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: Himmat Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: Shahbaz Ahmed
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Himmat Singh
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Himmat Singh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Himmat Singh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahbaz Ahmed
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: Himmat Singh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: Shahbaz Ahmed
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Himmat Singh
+    - 17.5:
+        actual_delivery: '17.4'
+        non_striker: Shahbaz Ahmed
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Himmat Singh
+    - 17.6:
+        actual_delivery: '17.5'
+        non_striker: Himmat Singh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 17.7:
+        actual_delivery: '17.6'
+        non_striker: Himmat Singh
+        bowler: Mukesh Choudhary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahbaz Ahmed
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shahbaz Ahmed
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahbaz Ahmed
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shahbaz Ahmed
+    - 18.5:
+        actual_delivery: '18.5'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 18.6:
+        actual_delivery: '18.6'
+        non_striker: Himmat Singh
+        bowler: J Overton
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Himmat Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shahbaz Ahmed
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Himmat Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shahbaz Ahmed
+    - 19.3:
+        actual_delivery: '19.3'
+        non_striker: Himmat Singh
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shahbaz Ahmed
+    - 19.4:
+        actual_delivery: '19.4'
+        non_striker: Shahbaz Ahmed
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Himmat Singh
+        wicket:
+          player_out: Himmat Singh
+          kind: bowled
+    - 19.5:
+        actual_delivery: '19.5'
+        non_striker: Shahbaz Ahmed
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Mohammed Shami
+        wicket:
+          player_out: Mohammed Shami
+          fielders:
+          - SV Samson
+          - A Kamboj
+          kind: run out
+    - 19.6:
+        actual_delivery: '19.6'
+        non_striker: Avesh Khan
+        bowler: A Kamboj
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        replacements:
+          match:
+          - in: Avesh Khan
+            out: JP Inglis
+            team: Lucknow Super Giants
+            reason: impact_player
+        batsman: Shahbaz Ahmed
+- 2nd innings:
+    team: Chennai Super Kings
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: SV Samson
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: SV Samson
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: SV Samson
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: SV Samson
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Gaikwad
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: SV Samson
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: SV Samson
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SV Samson
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: SV Samson
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: SV Samson
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SV Samson
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SV Samson
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SV Samson
+        wicket:
+          player_out: SV Samson
+          kind: bowled
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: Urvil Patel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: Urvil Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RD Gaikwad
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: Urvil Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: Urvil Patel
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: RD Gaikwad
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: RD Gaikwad
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: RD Gaikwad
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: Urvil Patel
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Urvil Patel
+    - 5.4:
+        actual_delivery: '5.3'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 5.5:
+        actual_delivery: '5.4'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Urvil Patel
+    - 5.6:
+        actual_delivery: '5.5'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 5.7:
+        actual_delivery: '5.6'
+        non_striker: RD Gaikwad
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: Urvil Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RD Gaikwad
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: Urvil Patel
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Urvil Patel
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Urvil Patel
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: Urvil Patel
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: Urvil Patel
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Urvil Patel
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Urvil Patel
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: Urvil Patel
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: RD Gaikwad
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: Urvil Patel
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Urvil Patel
+        wicket:
+          player_out: Urvil Patel
+          fielders:
+          - Avesh Khan
+          kind: caught
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: Kartik Sharma
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kartik Sharma
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: RD Gaikwad
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: RD Gaikwad
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: Kartik Sharma
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: RD Gaikwad
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Kartik Sharma
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RD Gaikwad
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: Kartik Sharma
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: Kartik Sharma
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Kartik Sharma
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Kartik Sharma
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: Kartik Sharma
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: RD Gaikwad
+        bowler: Mohammed Shami
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Kartik Sharma
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RD Gaikwad
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: RD Gaikwad
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: Kartik Sharma
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RD Gaikwad
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Kartik Sharma
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RD Gaikwad
+        wicket:
+          player_out: RD Gaikwad
+          kind: bowled
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Kartik Sharma
+        bowler: Shahbaz Ahmed
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Brevis
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: D Brevis
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: D Brevis
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: D Brevis
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: Kartik Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: Kartik Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: Kartik Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Kartik Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: D Brevis
+    - 14.5:
+        actual_delivery: '14.4'
+        non_striker: D Brevis
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Kartik Sharma
+    - 14.6:
+        actual_delivery: '14.5'
+        non_striker: D Brevis
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 14.7:
+        actual_delivery: '14.6'
+        non_striker: Kartik Sharma
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Brevis
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Brevis
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: D Brevis
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: D Brevis
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Kartik Sharma
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: Kartik Sharma
+        bowler: DS Rathi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Brevis
+        wicket:
+          player_out: D Brevis
+          kind: bowled
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Kartik Sharma
+        wicket:
+          player_out: Kartik Sharma
+          fielders:
+          - Akshat Raghuwanshi
+          kind: caught
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        replacements:
+          match:
+          - in: PR Veer
+            out: Mukesh Choudhary
+            team: Chennai Super Kings
+            reason: impact_player
+        batsman: PR Veer
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: PR Veer
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 16.4:
+        actual_delivery: '16.3'
+        non_striker: PR Veer
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Dube
+    - 16.5:
+        actual_delivery: '16.4'
+        non_striker: PR Veer
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 16.6:
+        actual_delivery: '16.5'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PR Veer
+    - 16.7:
+        actual_delivery: '16.5'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Veer
+    - 16.8:
+        actual_delivery: '16.6'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: PR Veer
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: S Dube
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Veer
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: S Dube
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Veer
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: S Dube
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Veer
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: PR Veer
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: S Dube
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Veer
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: S Dube
+        bowler: Prince Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Veer
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PR Veer
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Veer
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: PR Veer
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 18.4:
+        actual_delivery: '18.3'
+        non_striker: PR Veer
+        bowler: Avesh Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Dube
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PR Veer
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: S Dube
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PR Veer
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: PR Veer
+        bowler: Avesh Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Dube
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: PR Veer
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 19.2:
+        actual_delivery: '19.1'
+        non_striker: PR Veer
+        bowler: AK Markram
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Dube
+    - 19.3:
+        actual_delivery: '19.1'
+        non_striker: PR Veer
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    - 19.4:
+        actual_delivery: '19.2'
+        non_striker: PR Veer
+        bowler: AK Markram
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Dube
+    target:
+      overs: 20
+      runs: 204

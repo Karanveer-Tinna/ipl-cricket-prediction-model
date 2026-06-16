@@ -1,0 +1,2146 @@
+---
+meta:
+  data_version: 0.93
+  created: '2026-05-12'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  competition: IPL
+  dates:
+  - '2026-05-12'
+  gender: male
+  match_type: T20
+  outcome:
+    winner: Gujarat Titans
+    by:
+      runs: 82
+  overs: 20
+  player_of_match:
+  - K Rabada
+  players:
+    Gujarat Titans:
+    - M Prasidh Krishna
+    - B Sai Sudharsan
+    - Shubman Gill
+    - JC Buttler
+    - N Sindhu
+    - Washington Sundar
+    - JO Holder
+    - R Tewatia
+    - Rashid Khan
+    - Arshad Khan
+    - K Rabada
+    - Mohammed Siraj
+    Sunrisers Hyderabad:
+    - Sakib Hussain
+    - TM Head
+    - Abhishek Sharma
+    - Ishan Kishan
+    - R Smaran
+    - H Klaasen
+    - S Arora
+    - Nithish Kumar Reddy
+    - PJ Cummins
+    - Shivang Kumar
+    - PP Hinge
+    - E Malinga
+  registry:
+    people:
+      AK Argal: 0ee78cf3
+      Abhishek Sharma: f29185a1
+      Arshad Khan: '12314277'
+      B Sai Sudharsan: d5130a30
+      E Malinga: 5750bcb4
+      H Klaasen: 235c2bb6
+      HAS Khalid: 291ded7c
+      Ishan Kishan: 752f7486
+      JC Buttler: 99b75528
+      JO Holder: 0f721006
+      K Rabada: e62dd25d
+      M Prasidh Krishna: 85e0cf10
+      Mohammed Siraj: 2f49c897
+      N Sindhu: 3cea23da
+      Nithish Kumar Reddy: aad0c365
+      PJ Cummins: ded9240e
+      PP Hinge: ece7b6b3
+      R Seth: 540a44ba
+      R Smaran: c1e53c3f
+      R Tewatia: 39a2dfa8
+      Rashid Khan: 5f547c8b
+      S Arora: d7423da1
+      SJ Nogajski: 9b3f9323
+      Sakib Hussain: 280fff14
+      Shivang Kumar: 7b44eb3e
+      Shubman Gill: b4b99816
+      TM Head: 12b610c2
+      VK Sharma: a7a49df4
+      Washington Sundar: f19ccfad
+  teams:
+  - Gujarat Titans
+  - Sunrisers Hyderabad
+  toss:
+    winner: Sunrisers Hyderabad
+    decision: field
+  umpires:
+  - HAS Khalid
+  - VK Sharma
+  venue: Narendra Modi Stadium, Ahmedabad
+  team_type: club
+innings:
+- 1st innings:
+    team: Gujarat Titans
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Shubman Gill
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Shubman Gill
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Shubman Gill
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Shubman Gill
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shubman Gill
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shubman Gill
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shubman Gill
+        wicket:
+          player_out: Shubman Gill
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JC Buttler
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: JC Buttler
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: JC Buttler
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JC Buttler
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: JC Buttler
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JC Buttler
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JC Buttler
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: JC Buttler
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: JC Buttler
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: JC Buttler
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JC Buttler
+        wicket:
+          player_out: JC Buttler
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Sindhu
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: B Sai Sudharsan
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Sindhu
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: N Sindhu
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: N Sindhu
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: N Sindhu
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Sindhu
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: B Sai Sudharsan
+        bowler: Nithish Kumar Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Sindhu
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: N Sindhu
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: N Sindhu
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sindhu
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: N Sindhu
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: N Sindhu
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: N Sindhu
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: B Sai Sudharsan
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: B Sai Sudharsan
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sindhu
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: N Sindhu
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: N Sindhu
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: N Sindhu
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: N Sindhu
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: N Sindhu
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sindhu
+        wicket:
+          player_out: N Sindhu
+          fielders:
+          - H Klaasen
+          kind: caught
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 10.5:
+        actual_delivery: '10.5'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 10.6:
+        actual_delivery: '10.6'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 11.3:
+        actual_delivery: '11.2'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Sai Sudharsan
+    - 11.4:
+        actual_delivery: '11.2'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 11.5:
+        actual_delivery: '11.3'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 11.6:
+        actual_delivery: '11.4'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 11.7:
+        actual_delivery: '11.5'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 11.8:
+        actual_delivery: '11.6'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: B Sai Sudharsan
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: B Sai Sudharsan
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Sai Sudharsan
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: Washington Sundar
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: B Sai Sudharsan
+        bowler: Shivang Kumar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: Washington Sundar
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 14.6:
+        actual_delivery: '14.6'
+        non_striker: B Sai Sudharsan
+        bowler: PJ Cummins
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.1:
+        actual_delivery: '15.1'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 15.2:
+        actual_delivery: '15.2'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Sai Sudharsan
+    - 15.3:
+        actual_delivery: '15.3'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Sai Sudharsan
+    - 15.4:
+        actual_delivery: '15.4'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Washington Sundar
+    - 15.5:
+        actual_delivery: '15.5'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 15.6:
+        actual_delivery: '15.6'
+        non_striker: B Sai Sudharsan
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 16.1:
+        actual_delivery: '16.1'
+        non_striker: B Sai Sudharsan
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 16.2:
+        actual_delivery: '16.2'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Sai Sudharsan
+        wicket:
+          player_out: B Sai Sudharsan
+          fielders:
+          - PP Hinge
+          kind: caught
+    - 16.3:
+        actual_delivery: '16.3'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Holder
+    - 16.4:
+        actual_delivery: '16.4'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 16.5:
+        actual_delivery: '16.5'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 16.6:
+        actual_delivery: '16.6'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Washington Sundar
+    - 16.7:
+        actual_delivery: '16.6'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Washington Sundar
+    - 16.8:
+        actual_delivery: '16.6'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 17.1:
+        actual_delivery: '17.1'
+        non_striker: Washington Sundar
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JO Holder
+    - 17.2:
+        actual_delivery: '17.2'
+        non_striker: Washington Sundar
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 17.3:
+        actual_delivery: '17.3'
+        non_striker: JO Holder
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 17.4:
+        actual_delivery: '17.4'
+        non_striker: JO Holder
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+    - 17.5:
+        actual_delivery: '17.5'
+        non_striker: JO Holder
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 17.6:
+        actual_delivery: '17.6'
+        non_striker: Washington Sundar
+        bowler: PP Hinge
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.1:
+        actual_delivery: '18.1'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.2:
+        actual_delivery: '18.2'
+        non_striker: JO Holder
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 18.3:
+        actual_delivery: '18.3'
+        non_striker: JO Holder
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 18.4:
+        actual_delivery: '18.4'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Holder
+    - 18.5:
+        actual_delivery: '18.4'
+        non_striker: Washington Sundar
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 18.6:
+        actual_delivery: '18.5'
+        non_striker: JO Holder
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Washington Sundar
+    - 18.7:
+        actual_delivery: '18.6'
+        non_striker: JO Holder
+        bowler: E Malinga
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Washington Sundar
+    - 19.1:
+        actual_delivery: '19.1'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JO Holder
+    - 19.2:
+        actual_delivery: '19.2'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JO Holder
+    - 19.3:
+        actual_delivery: '19.2'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.4:
+        actual_delivery: '19.3'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Washington Sundar
+    - 19.5:
+        actual_delivery: '19.4'
+        non_striker: Washington Sundar
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JO Holder
+    - 19.6:
+        actual_delivery: '19.5'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Washington Sundar
+        wicket:
+          player_out: Washington Sundar
+          fielders:
+          - Ishan Kishan
+          kind: caught
+    - 19.7:
+        actual_delivery: '19.6'
+        non_striker: JO Holder
+        bowler: Sakib Hussain
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Tewatia
+- 2nd innings:
+    team: Sunrisers Hyderabad
+    deliveries:
+    - 0.1:
+        actual_delivery: '0.1'
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: M Prasidh Krishna
+            out: R Tewatia
+            team: Gujarat Titans
+            reason: impact_player
+          - in: TM Head
+            out: Sakib Hussain
+            team: Sunrisers Hyderabad
+            reason: impact_player
+        batsman: TM Head
+    - 0.2:
+        actual_delivery: '0.2'
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.3:
+        actual_delivery: '0.3'
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+    - 0.4:
+        actual_delivery: '0.4'
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM Head
+        wicket:
+          player_out: TM Head
+          fielders:
+          - N Sindhu
+          kind: caught
+    - 0.5:
+        actual_delivery: '0.5'
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 0.6:
+        actual_delivery: '0.6'
+        non_striker: Abhishek Sharma
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 1.1:
+        actual_delivery: '1.1'
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Abhishek Sharma
+    - 1.2:
+        actual_delivery: '1.2'
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.3:
+        actual_delivery: '1.3'
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+    - 1.4:
+        actual_delivery: '1.4'
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Abhishek Sharma
+        wicket:
+          player_out: Abhishek Sharma
+          kind: bowled
+    - 1.5:
+        actual_delivery: '1.5'
+        non_striker: Ishan Kishan
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Smaran
+    - 1.6:
+        actual_delivery: '1.6'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ishan Kishan
+    - 2.1:
+        actual_delivery: '2.1'
+        non_striker: Ishan Kishan
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Smaran
+    - 2.2:
+        actual_delivery: '2.2'
+        non_striker: Ishan Kishan
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 2.3:
+        actual_delivery: '2.3'
+        non_striker: Ishan Kishan
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Smaran
+    - 2.4:
+        actual_delivery: '2.4'
+        non_striker: R Smaran
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+    - 2.5:
+        actual_delivery: '2.5'
+        non_striker: R Smaran
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ishan Kishan
+    - 2.6:
+        actual_delivery: '2.6'
+        non_striker: R Smaran
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishan Kishan
+    - 3.1:
+        actual_delivery: '3.1'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishan Kishan
+        wicket:
+          player_out: Ishan Kishan
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 3.2:
+        actual_delivery: '3.2'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 3.3:
+        actual_delivery: '3.3'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Smaran
+    - 3.4:
+        actual_delivery: '3.4'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 3.5:
+        actual_delivery: '3.5'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 3.6:
+        actual_delivery: '3.6'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 4.1:
+        actual_delivery: '4.1'
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 4.2:
+        actual_delivery: '4.2'
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 4.3:
+        actual_delivery: '4.3'
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 4.4:
+        actual_delivery: '4.4'
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 4.5:
+        actual_delivery: '4.5'
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 4.6:
+        actual_delivery: '4.6'
+        non_striker: H Klaasen
+        bowler: Mohammed Siraj
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Smaran
+    - 5.1:
+        actual_delivery: '5.1'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 5.2:
+        actual_delivery: '5.2'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+    - 5.3:
+        actual_delivery: '5.3'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Smaran
+    - 5.4:
+        actual_delivery: '5.4'
+        non_striker: R Smaran
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 5.5:
+        actual_delivery: '5.5'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Smaran
+        wicket:
+          player_out: R Smaran
+          fielders:
+          - Shubman Gill
+          kind: caught
+    - 5.6:
+        actual_delivery: '5.6'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Arora
+    - 6.1:
+        actual_delivery: '6.1'
+        non_striker: S Arora
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 6.2:
+        actual_delivery: '6.2'
+        non_striker: H Klaasen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 6.3:
+        actual_delivery: '6.3'
+        non_striker: H Klaasen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 6.4:
+        actual_delivery: '6.4'
+        non_striker: H Klaasen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Arora
+    - 6.5:
+        actual_delivery: '6.5'
+        non_striker: H Klaasen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 6.6:
+        actual_delivery: '6.6'
+        non_striker: H Klaasen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Arora
+    - 7.1:
+        actual_delivery: '7.1'
+        non_striker: S Arora
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.2:
+        actual_delivery: '7.2'
+        non_striker: S Arora
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 7.3:
+        actual_delivery: '7.3'
+        non_striker: S Arora
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 7.4:
+        actual_delivery: '7.4'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 7.5:
+        actual_delivery: '7.5'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 7.6:
+        actual_delivery: '7.6'
+        non_striker: H Klaasen
+        bowler: K Rabada
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Arora
+    - 8.1:
+        actual_delivery: '8.1'
+        non_striker: S Arora
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Klaasen
+    - 8.2:
+        actual_delivery: '8.2'
+        non_striker: S Arora
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.3:
+        actual_delivery: '8.3'
+        non_striker: S Arora
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.4:
+        actual_delivery: '8.4'
+        non_striker: S Arora
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+    - 8.5:
+        actual_delivery: '8.5'
+        non_striker: S Arora
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 8.6:
+        actual_delivery: '8.6'
+        non_striker: H Klaasen
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 9.1:
+        actual_delivery: '9.1'
+        non_striker: H Klaasen
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Arora
+    - 9.2:
+        actual_delivery: '9.2'
+        non_striker: S Arora
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Klaasen
+    - 9.3:
+        actual_delivery: '9.3'
+        non_striker: H Klaasen
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+    - 9.4:
+        actual_delivery: '9.4'
+        non_striker: H Klaasen
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Arora
+        wicket:
+          player_out: S Arora
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 9.5:
+        actual_delivery: '9.5'
+        non_striker: H Klaasen
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 9.6:
+        actual_delivery: '9.6'
+        non_striker: H Klaasen
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+    - 10.1:
+        actual_delivery: '10.1'
+        non_striker: Nithish Kumar Reddy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Klaasen
+        wicket:
+          player_out: H Klaasen
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 10.2:
+        actual_delivery: '10.2'
+        non_striker: Nithish Kumar Reddy
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 10.3:
+        actual_delivery: '10.3'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nithish Kumar Reddy
+    - 10.4:
+        actual_delivery: '10.4'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nithish Kumar Reddy
+    - 10.5:
+        actual_delivery: '10.4'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nithish Kumar Reddy
+        wicket:
+          player_out: Nithish Kumar Reddy
+          fielders:
+          - Washington Sundar
+          kind: caught
+    - 10.6:
+        actual_delivery: '10.5'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivang Kumar
+    - 10.7:
+        actual_delivery: '10.6'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivang Kumar
+    - 11.1:
+        actual_delivery: '11.1'
+        non_striker: Shivang Kumar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 11.2:
+        actual_delivery: '11.2'
+        non_striker: Shivang Kumar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 11.3:
+        actual_delivery: '11.3'
+        non_striker: Shivang Kumar
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 11.4:
+        actual_delivery: '11.4'
+        non_striker: PJ Cummins
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivang Kumar
+    - 11.5:
+        actual_delivery: '11.5'
+        non_striker: PJ Cummins
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shivang Kumar
+    - 11.6:
+        actual_delivery: '11.6'
+        non_striker: PJ Cummins
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shivang Kumar
+    - 12.1:
+        actual_delivery: '12.1'
+        non_striker: Shivang Kumar
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PJ Cummins
+    - 12.2:
+        actual_delivery: '12.2'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shivang Kumar
+        wicket:
+          player_out: Shivang Kumar
+          fielders:
+          - JC Buttler
+          kind: caught
+    - 12.3:
+        actual_delivery: '12.3'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Hinge
+    - 12.4:
+        actual_delivery: '12.4'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Hinge
+    - 12.5:
+        actual_delivery: '12.5'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Hinge
+    - 12.6:
+        actual_delivery: '12.6'
+        non_striker: PJ Cummins
+        bowler: JO Holder
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Hinge
+    - 13.1:
+        actual_delivery: '13.1'
+        non_striker: PP Hinge
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PJ Cummins
+    - 13.2:
+        actual_delivery: '13.2'
+        non_striker: PP Hinge
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: PJ Cummins
+    - 13.3:
+        actual_delivery: '13.3'
+        non_striker: PP Hinge
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+    - 13.4:
+        actual_delivery: '13.4'
+        non_striker: PP Hinge
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PJ Cummins
+        wicket:
+          player_out: PJ Cummins
+          fielders:
+          - Mohammed Siraj
+          kind: caught
+    - 13.5:
+        actual_delivery: '13.5'
+        non_striker: PP Hinge
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 13.6:
+        actual_delivery: '13.6'
+        non_striker: PP Hinge
+        bowler: M Prasidh Krishna
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Malinga
+    - 14.1:
+        actual_delivery: '14.1'
+        non_striker: E Malinga
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PP Hinge
+    - 14.2:
+        actual_delivery: '14.2'
+        non_striker: E Malinga
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PP Hinge
+    - 14.3:
+        actual_delivery: '14.3'
+        non_striker: PP Hinge
+        bowler: Rashid Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: E Malinga
+    - 14.4:
+        actual_delivery: '14.4'
+        non_striker: E Malinga
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Hinge
+    - 14.5:
+        actual_delivery: '14.5'
+        non_striker: E Malinga
+        bowler: Rashid Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PP Hinge
+        wicket:
+          player_out: PP Hinge
+          fielders:
+          - JC Buttler
+          kind: stumped
+    target:
+      overs: 20
+      runs: 169
