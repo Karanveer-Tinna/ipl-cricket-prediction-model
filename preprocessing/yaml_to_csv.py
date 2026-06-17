@@ -3,8 +3,7 @@ import yaml
 import pandas as pd
 from tqdm import tqdm
 
-# 👇 SET YOUR YAML FOLDER HERE
-YAML_FOLDER = r"C:\Users\veerk\Downloads\ipl" # Folder where yaml folder is there
+YAML_FOLDER = r"..\dataset" 
 OUTPUT_CSV = "ipl_match_by_match.csv"
 
 match_rows = []
@@ -76,7 +75,6 @@ for file in tqdm(os.listdir(YAML_FOLDER)):
             except Exception as e:
                 print(f"❌ Error in {file}: {e}")
 
-# ✅ Create DataFrame & Export
 df = pd.DataFrame(match_rows)
 df.to_csv(OUTPUT_CSV, index=False)
 print(f"✅ CSV saved as: {OUTPUT_CSV}")
