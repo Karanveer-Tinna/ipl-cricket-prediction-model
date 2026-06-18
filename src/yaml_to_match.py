@@ -3,16 +3,6 @@ import yaml
 import pandas as pd
 from tqdm import tqdm
 
-YAML_FOLDER = r"..\dataset" 
-OUTPUT_CSV = "ipl_match_by_match.csv"
-
-match_rows = []
-import os
-import yaml
-import pandas as pd
-from tqdm import tqdm
-
-
 def convert_yaml_to_match_csv(
     yaml_folder: str,
     output_csv_path: str
