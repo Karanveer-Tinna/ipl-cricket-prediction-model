@@ -7,11 +7,47 @@ YAML_FOLDER = r"..\dataset"
 OUTPUT_CSV = "ipl_match_by_match.csv"
 
 match_rows = []
+import os
+import yaml
+import pandas as pd
+from tqdm import tqdm
 
-for file in tqdm(os.listdir(YAML_FOLDER)):
-    if file.endswith(".yaml"):
-        with open(os.path.join(YAML_FOLDER, file), "r") as f:
+
+def convert_yaml_to_match_csv(
+    yaml_folder: str,
+    output_csv_path: str
+) -> pd.DataFrame:
+    """
+    Convert IPL YAML match files into a match-by-match CSV.
+
+    This function reads all YAML files from the specified directory,
+    extracts match-level metadata such as teams, venue, toss information,
+    result, scores, and player lists, and saves the extracted data as a CSV.
+
+    Parameters
+    ----------
+    yaml_folder : str
+        Path containing YAML files.
+
+    output_csv_path : str
+        Full path where the CSV will be saved.
+
+    Returns
+    -------
+    pd.DataFrame
+        Match-by-match dataframe.
+    """
+
+    match_rows = []
+
+    for file in tqdm(os.listdir(yaml_folder)):
+        if file.endswith(".yaml"):
+            file_path = os.path.join(yaml_folder, file)
+
             try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    match = yaml.safe_load(f)
+
                 match = yaml.safe_load(f)
                 match_id = file.replace(".yaml", "")
                 info = match.get("info", {})
@@ -33,17 +69,14 @@ for file in tqdm(os.listdir(YAML_FOLDER)):
                 elif "wickets" in result_by:
                     result = f"won by {result_by['wickets']} wickets"
 
-                # Extract players (team1, team2)
                 players_info = info.get("players", {})
                 team1_players = players_info.get(team1, [])
                 team2_players = players_info.get(team2, [])
 
-                # Get batting order from innings
                 innings = match.get("innings", [])
                 first_batting_team = innings[0].get("1st innings", {}).get("team", "") if innings else ""
                 second_batting_team = innings[1].get("2nd innings", {}).get("team", "") if len(innings) > 1 else ""
 
-                # Get scores
                 def get_team_score(innings_data):
                     total = 0
                     for delivery in innings_data.get("deliveries", []):
@@ -73,8 +106,9 @@ for file in tqdm(os.listdir(YAML_FOLDER)):
                 match_rows.append(row)
 
             except Exception as e:
-                print(f"❌ Error in {file}: {e}")
+                print(f"Error in {file}: {e}")
 
-df = pd.DataFrame(match_rows)
-df.to_csv(OUTPUT_CSV, index=False)
-print(f"✅ CSV saved as: {OUTPUT_CSV}")
+    df = pd.DataFrame(match_rows)
+    df.to_csv(output_csv_path, index=False)
+    print(f"Match-by-Match CSV saved at {output_csv_path}")
+    return df
