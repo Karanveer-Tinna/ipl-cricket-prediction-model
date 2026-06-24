@@ -38,7 +38,6 @@ def convert_yaml_to_match_csv(
                 with open(file_path, "r", encoding="utf-8") as f:
                     match = yaml.safe_load(f)
 
-                match = yaml.safe_load(f)
                 match_id = file.replace(".yaml", "")
                 info = match.get("info", {})
                 date = info.get("dates", [None])[0]
