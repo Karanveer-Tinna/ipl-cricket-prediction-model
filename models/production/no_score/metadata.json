@@ -3,7 +3,10 @@
     "dataset": "no_score",
     "num_features": 19,
     "target": "match_winner",
-    "features_names": [
+    "framework": "scikit-learn",
+    "pipeline": true,
+
+    "feature_names": [
         "team1_total_wins_against_team2",
         "team2_total_wins_against_team1",
         "team1_wins_against_team2_last_three",
@@ -24,22 +27,26 @@
         "team2_win_rate_at_venue",
         "toss_winner_slot"
     ],
+
     "metrics": {
         "accuracy": 0.5287,
         "roc_auc": 0.5108,
         "pr_auc": 0.4681,
         "macro_f1": 0.51
     },
+
     "train_test_split": {
         "test_size":0.2
     },
+
     "best_parameters":{
         "criterion": "entropy",
-        "max_depth": "10",
+        "max_depth": 10,
         "max_features": "sqrt",
         "min_samples_leaf": 1,
         "min_samples_split": 5 
     },
-    "selected_reason": "Highest Balanced Classification accuracy and F1 score among evaluated classifier",
-    "created_at": "10-07-2026"
+    
+    "selected_reason":"Selected because it achieved the highest overall classification performance (Accuracy and Macro F1) among the evaluated classifiers for the no_score dataset.",
+    "created_at": "2026-07-10"
 }
