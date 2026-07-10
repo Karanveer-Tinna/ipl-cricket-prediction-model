@@ -1,0 +1,45 @@
+{
+    "model_name": "DecisionTreeClassifier",
+    "dataset": "no_score",
+    "num_features": 19,
+    "target": "match_winner",
+    "features_names": [
+        "team1_total_wins_against_team2",
+        "team2_total_wins_against_team1",
+        "team1_wins_against_team2_last_three",
+        "team2_wins_against_team1_last_three",
+        "team1_form_last_5",
+        "team2_form_last_5",
+        "team1_last_5_avg_score",
+        "team1_last_5_runs_conceded",
+        "team2_last_5_avg_score",
+        "team2_last_5_runs_conceded",
+        "team1_chasing_win_rate",
+        "team1_defending_win_rate",
+        "team2_chasing_win_rate",
+        "team2_defending_win_rate",
+        "venue_avg_score",
+        "chasing_win_rate_venue",
+        "team1_win_rate_at_venue",
+        "team2_win_rate_at_venue",
+        "toss_winner_slot"
+    ],
+    "metrics": {
+        "accuracy": 0.5287,
+        "roc_auc": 0.5108,
+        "pr_auc": 0.4681,
+        "macro_f1": 0.51
+    },
+    "train_test_split": {
+        "test_size":0.2
+    },
+    "best_parameters":{
+        "criterion": "entropy",
+        "max_depth": "10",
+        "max_features": "sqrt",
+        "min_samples_leaf": 1,
+        "min_samples_split": 5 
+    },
+    "selected_reason": "Highest Balanced Classification accuracy and F1 score among evaluated classifier",
+    "created_at": "10-07-2026"
+}
