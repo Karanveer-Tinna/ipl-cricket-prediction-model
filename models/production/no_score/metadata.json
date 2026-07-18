@@ -1,10 +1,11 @@
 {
-    "model_name": "DecisionTreeClassifier",
+    "model_name": "RandomForestClassifier",
     "dataset": "no_score",
     "num_features": 19,
     "target": "match_winner",
     "framework": "scikit-learn",
     "pipeline": true,
+    "random_seed":999,
 
     "feature_names": [
         "team1_total_wins_against_team2",
@@ -36,7 +37,8 @@
     },
 
     "train_test_split": {
-        "test_size":0.2
+        "test_size":0.2,
+        "random_seed":999
     },
 
     "best_parameters":{
