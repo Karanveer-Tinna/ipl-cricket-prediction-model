@@ -1,11 +1,10 @@
 {
-    "model_name": "RandomForestClassifier",
+    "model_name": "XgBoostClassifier",
     "dataset": "no_score",
     "num_features": 19,
     "target": "match_winner",
     "framework": "scikit-learn",
     "pipeline": true,
-    "random_seed":999,
 
     "feature_names": [
         "team1_total_wins_against_team2",
@@ -30,15 +29,15 @@
     ],
 
     "metrics": {
-        "accuracy": 0.5287,
-        "roc_auc": 0.5108,
-        "pr_auc": 0.4681,
-        "macro_f1": 0.51
+        "accuracy": 0.5738,
+        "roc_auc": 0.4972,
+        "pr_auc": 0.4468,
+        "macro_f1": 0.54
     },
 
     "train_test_split": {
         "test_size":0.2,
-        "random_seed":999
+        "random_seed":2026
     },
 
     "best_parameters":{
@@ -49,6 +48,6 @@
         "min_samples_split": 5 
     },
     
-    "selected_reason":"Selected because it achieved the highest overall classification performance (Accuracy and Macro F1) among the evaluated classifiers for the no_score dataset.",
-    "created_at": "2026-07-10"
+    "selected_reason":"Selected because it achieved the highest overall classification performance (Accuracy and Precision-Recall AUC) among the evaluated classifiers for the no_score dataset.",
+    "created_at": "2026-07-22"
 }
