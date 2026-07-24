@@ -9,3 +9,5 @@ Multiple supervised machine learning algorithms, including Logistic Regression, 
 The project also demonstrates a complete inference workflow by generating features for unseen matches, loading the trained production model, and producing match winner predictions. A lightweight Flask-based web application is included to provide an interactive interface for making predictions using the trained model.
 
 The objective of this project is to develop a reproducible and interpretable machine learning solution that demonstrates the complete lifecycle of a predictive analytics application, from raw data ingestion to model deployment.
+
+
