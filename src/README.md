@@ -1,0 +1,11 @@
+# IPL Match Winner Prediction Using Machine Learning
+
+## Project Overview
+
+This project presents an end-to-end machine learning pipeline for predicting the winner of Indian Premier League (IPL) cricket matches using historical match data and engineered statistical features. The pipeline begins with converting raw YAML match files into structured datasets, followed by data cleaning, exploratory data analysis (EDA), and feature engineering to derive team, venue, and match-specific statistics.
+
+Multiple supervised machine learning algorithms, including Logistic Regression, Support Vector Machine (SVM), Decision Tree, Random Forest, and XGBoost, are trained and evaluated using two feature configurations: one based solely on pre-match information and another incorporating the first innings score. Model performance is assessed using standard classification metrics, and the best-performing model is further interpreted using feature importance and SHAP analysis.
+
+The project also demonstrates a complete inference workflow by generating features for unseen matches, loading the trained production model, and producing match winner predictions. A lightweight Flask-based web application is included to provide an interactive interface for making predictions using the trained model.
+
+The objective of this project is to develop a reproducible and interpretable machine learning solution that demonstrates the complete lifecycle of a predictive analytics application, from raw data ingestion to model deployment.
