@@ -1,7 +1,8 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 from pathlib import Path
 import joblib
 import pandas as pd
+from src.feature_engineering import add_head_to_head_features, add_team_form_features, add_team_scoring_features, add_team_strategy_features, add_venue_features
 
 app = Flask(__name__)
 
@@ -20,5 +21,39 @@ venues = sorted(historical_matches["venue"].unique())
 
 @app.route("/")
 def home():
-
    return render_template("index.html", teams = teams, venues = venues) 
+
+@app.route("/predict", methods=["POST"])
+def predict():
+
+   team1 = request.form["team1"]
+   team2 = request.form["team2"]
+   venue = request.form["venue"]
+   toss_winner = request.form["toss_winner"]
+   toss_decision = request.form["toss_decision"]
+
+   new_match = {
+      "match_id": -1,
+      "date": pd.Timestamp.today().date(),
+      "venue": venue,
+      "team1": team1,
+      "team2": team2,
+      "toss_winner": toss_winner,
+      "toss_decision": toss_decision,
+      "winner":None,
+      "result":None,
+      "team1_score": None,
+      "team2_score": None,
+      "team1_players": None,
+      "team2_players": None
+   }
+
+   combined = pd.concat([historical_matches, pd.DataFrame([new_match])], ignore_index=True)
+
+   combined = add_head_to_head_features(combined)
+   combined = add_team_form_features(combined)
+   combined = add_team_scoring_features(combined)
+   combined = add_team_strategy_features(combined)
+   combined = add_venue_features(combined)
+
+   X = combined.iloc[[-1]][feature_columns]
