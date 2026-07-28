@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 from pathlib import Path
 import joblib
 import pandas as pd
-from src.feature_engineering import add_head_to_head_features, add_team_form_features, add_team_scoring_features, add_team_strategy_features, add_venue_features
+from src.features import add_head_to_head_features, add_team_form_features, add_team_scoring_features, add_team_strategy_features, add_venue_features
 
 app = Flask(__name__)
 
@@ -57,3 +57,21 @@ def predict():
    combined = add_venue_features(combined)
 
    X = combined.iloc[[-1]][feature_columns]
+
+   prediction =  model.predict(X)[0]
+   probability = model.predict_proba(X)[0]
+
+   if prediction == 1:
+      prediction_winner = team1
+   else:
+      prediction_winner = team2
+
+   team1_probability = probability[0] * 100
+   team2_probability = probability[1] * 100
+
+   return render_template("result.html", winner=prediction_winner, team1=team1, team2=team2, 
+                          team1_probability = round(team1_probability, 2), team2_probability = round(team2_probability, 2))
+
+
+if __name__ == "__main__":
+   app.run(debug=True)
