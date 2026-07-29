@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+          rel="stylesheet">
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body class="bg-light">
+
+<div class="container py-5">
+
+    <div class="row justify-content-center">
+
+        <div class="col-lg-8">
+
+            <div class="card shadow">
+
+                <div class="card-header text-center">
+
+                    <h2>Prediction Result</h2>
+
+                </div>
+
+                <div class="card-body">
+
+
+                    <div class="text-center mb-4">
+
+                        <h5 class="text-muted">
+                            Predicted Winner
+                        </h5>
+
+                        <h2 class="text-success">
+                            {{ winner }}
+                        </h2>
+
+                    </div>
+
+                    <hr>
+
+
+                    <h4 class="mb-3">
+                        Winning Probability
+                    </h4>
+
+                    <p class="mb-1">
+                        <strong>{{ team1 }}</strong>
+                    </p>
+
+                    <div class="progress mb-3" style="height:25px;">
+
+                        <div
+                            class="progress-bar bg-primary"
+                            role="progressbar"
+                            style="width: {{ team1_probability }}%;">
+
+                            {{ team1_probability }}%
+
+                        </div>
+
+                    </div>
+
+
+                    <p class="mb-1">
+                        <strong>{{ team2 }}</strong>
+                    </p>
+
+                    <div class="progress mb-4" style="height:25px;">
+
+                        <div
+                            class="progress-bar bg-danger"
+                            role="progressbar"
+                            style="width: {{ team2_probability }}%;">
+
+                            {{ team2_probability }}%
+
+                        </div>
+
+                    </div>
+
+
+                    <h4>Confidence</h4>
+
+                    {% set confidence = [team1_probability, team2_probability]|max %}
+
+                    {% if confidence >= 90 %}
+
+                        <div class="alert alert-success">
+                            Very High Confidence
+                        </div>
+
+                    {% elif confidence >= 80 %}
+
+                        <div class="alert alert-success">
+                            High Confidence
+                        </div>
+
+                    {% elif confidence >= 65 %}
+
+                        <div class="alert alert-warning">
+                            Moderate Confidence
+                        </div>
+
+                    {% else %}
+
+                        <div class="alert alert-danger">
+                            Low Confidence
+                        </div>
+
+                    {% endif %}
+
+                    <hr>
+
+                    <h4 class="mb-3">
+                        Prediction Summary
+                    </h4>
+
+                    <table class="table table-bordered text-center">
+
+                        <thead class="table-light">
+
+                        <tr>
+
+                            <th>Team</th>
+                            <th>Winning Probability</th>
+
+                        </tr>
+
+                        </thead>
+
+                        <tbody>
+
+                        <tr>
+
+                            <td>{{ team1 }}</td>
+                            <td>{{ team1_probability }}%</td>
+
+                        </tr>
+
+                        <tr>
+
+                            <td>{{ team2 }}</td>
+                            <td>{{ team2_probability }}%</td>
+
+                        </tr>
+
+                        </tbody>
+
+                    </table>
+
+                    <div class="d-flex justify-content-center gap-3 mt-4">
+
+                        <a href="/"
+                           class="btn btn-primary">
+
+                            Predict Another Match
+
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+</body>
+</html>
