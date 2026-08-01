@@ -10,4 +10,21 @@ The project also demonstrates a complete inference workflow by generating featur
 
 The objective of this project is to develop a reproducible and interpretable machine learning solution that demonstrates the complete lifecycle of a predictive analytics application, from raw data ingestion to model deployment.
 
+## Project Structure
 
+The project is organised into modular components to separate data processing, model development, deployment, and other resources
+
+project/
+├── app/
+├── data/
+├── models/
+├── notebooks/
+├── src/
+└── README.md
+
+### Folder Description
+- app/ – Flask application, HTML templates, CSS and static assets for the prediction dashboard.
+- data/ – Stores the raw YAML files, intermediate CSV datasets, and processed datasets used for training and inference
+- model/ – Contains trained machine learning models, and production-ready model artifacts.
+- notebooks/ – Documents the complete workflow, including data ingestion, cleaning, exploratory data analysis, feature engineering, model training, interpretation, and inference.
+- src/ – Contains reusable Python modules
