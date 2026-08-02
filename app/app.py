@@ -16,7 +16,7 @@ feature_columns = joblib.load(PROJECT_ROOT / "data" / "splits" / "no_score" / "X
 
 historical_matches = pd.read_csv(DATA_DIR / "match_by_match.csv")
 
-teams = sorted(pd.unique(pd.concat([historical_matches["team1"], historical_matches["team2"]])))
+teams = sorted(pd.unique(pd.concat([historical_matches["team1"], historical_matches["team2"]]).dropna()))
 venues = sorted(historical_matches["venue"].unique())
 
 @app.route("/")
@@ -49,6 +49,9 @@ def predict():
    }
 
    combined = pd.concat([historical_matches, pd.DataFrame([new_match])], ignore_index=True)
+   combined["date"] = pd.to_datetime(combined["date"])
+
+   combined["toss_winner_slot"] = (combined["toss_winner"] == combined["team1"]).astype(int)
 
    combined = add_head_to_head_features(combined)
    combined = add_team_form_features(combined)
@@ -66,8 +69,8 @@ def predict():
    else:
       prediction_winner = team2
 
-   team1_probability = probability[0] * 100
-   team2_probability = probability[1] * 100
+   team1_probability = probability[1] * 100
+   team2_probability = probability[0] * 100
 
    return render_template("result.html", winner=prediction_winner, team1=team1, team2=team2, 
                           team1_probability = round(team1_probability, 2), team2_probability = round(team2_probability, 2))
