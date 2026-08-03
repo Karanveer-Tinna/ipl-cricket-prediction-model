@@ -14,7 +14,6 @@ The objective of this project is to develop a reproducible and interpretable mac
 
 The project is organised into modular components to separate data processing, model development, deployment, and other resources
 
-project/
 ├── app/
 ├── data/
 ├── models/
@@ -28,3 +27,9 @@ project/
 - model/ – Contains trained machine learning models, and production-ready model artifacts.
 - notebooks/ – Documents the complete workflow, including data ingestion, cleaning, exploratory data analysis, feature engineering, model training, interpretation, and inference.
 - src/ – Contains reusable Python modules
+
+## Dataset
+
+The project uses historical Indian Premier League (IPL) match data spanning from 2008 to 2026, comprising 1,242 matches. The original dataset is provided in YAML format, with each file representing a single match and containing detailed information, such as match metadata, team lineups, innings, deliveries, and outcomes. The YAML files are present in the raw subfolder in the data folder.
+
+During the data ingestion stage, the YAML files are parsed and converted into structured CSV dataset for analysis and model development.
