@@ -13,14 +13,14 @@ The objective of this project is to develop a reproducible and interpretable mac
 ## Project Structure
 
 The project is organised into modular components to separate data processing, model development, deployment, and other resources
-
-├── app/
-├── data/
-├── models/
-├── notebooks/
-├── src/
-└── README.md
-
+```
+├── app/            # Flask Web Application for model inference
+├── data/           # Raw, intermediate and processed datasets
+├── models/         # Trained models and production artifacts
+├── notebooks/      # Jupyter notebooks for the complete ML workflow
+├── src/            # Reusable source code for preprocessing, feature engineering, and inference
+└── README.md       # Project documentation
+```
 ### Folder Description
 - app/ – Flask application, HTML templates, CSS and static assets for the prediction dashboard.
 - data/ – Stores the raw YAML files, intermediate CSV datasets, and processed datasets used for training and inference
@@ -32,4 +32,7 @@ The project is organised into modular components to separate data processing, mo
 
 The project uses historical Indian Premier League (IPL) match data spanning from 2008 to 2026, comprising 1,242 matches. The original dataset is provided in YAML format, with each file representing a single match and containing detailed information, such as match metadata, team lineups, innings, deliveries, and outcomes. The YAML files are present in the raw subfolder in the data folder.
 
-During the data ingestion stage, the YAML files are parsed and converted into structured CSV dataset for analysis and model development.
+During the data ingestion stage, the YAML files are parsed and converted into structured CSV dataset for analysis and model development. The project primarily utilizes two datasets:
+- `match_by_match.csv` - Match-level information, including teams, venue, toss details, match result, and scores.
+- `ball_by_ball.csv` - Ball-by-ball records containing delivery-level events and statistic.
+These datasets are subsequently cleaned, standardized, and used to generate historical performance, venue, and team-specific features for machine learning.
