@@ -36,3 +36,36 @@ During the data ingestion stage, the YAML files are parsed and converted into st
 - `match_by_match.csv` - Match-level information, including teams, venue, toss details, match result, and scores.
 - `ball_by_ball.csv` - Ball-by-ball records containing delivery-level events and statistic.
 These datasets are subsequently cleaned, standardized, and used to generate historical performance, venue, and team-specific features for machine learning.
+
+## Data Pipeline
+
+The project follows a structured end-to-end machine learning pipeline that transforms raw IPL match data into predictions through a series of modular processing stage.
+
+```
+Raw YAML Match Files
+    │
+    ▼ 
+Data Ingestion (YAML in `raw` → Structured CSV Datasets in `interim`)
+    |
+    ▼
+Data Cleaning (Standardize team names, venue names, and data formats and store in `processed`)
+    |
+    ▼
+Exploratory Data Analysis (EDA) (Understand data distribution and historical trends) 
+    |
+    ▼
+Feature Engineering (Head-to-head, recent form, scoring, strategy, and venue stats and store in `model_ready`)
+    |
+    ▼
+Model Training & Evaluation (Train and compare multiple machine learning models)
+    |
+    ▼
+Model Interpretation (Feature Importance and SHAP analysis)
+    |
+    ▼
+Inference (Generate features for unseen matches and predict the winner)
+    |
+    ▼
+Flask Dashboard (Interative web interface for match winner prediction)
+```
+Each stage builds upon the previous one to ensure a reproducible workflow, with reusable preprocessing and feature engineering modules shared across the training, inference, and deployment.
