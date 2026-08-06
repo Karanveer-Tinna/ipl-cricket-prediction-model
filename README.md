@@ -41,20 +41,20 @@ These datasets are subsequently cleaned, standardized, and used to generate hist
 
 The project follows a structured end-to-end machine learning pipeline that transforms raw IPL match data into predictions through a series of modular processing stage.
 
-```
+```             
 Raw YAML Match Files
     │
     ▼ 
 Data Ingestion (YAML in `raw` → Structured CSV Datasets in `interim`)
     |
     ▼
-Data Cleaning (Standardize team names, venue names, and data formats and store in `processed`)
+Data Cleaning (Standardize team names, venue names, and data formats → `processed`)
     |
     ▼
 Exploratory Data Analysis (EDA) (Understand data distribution and historical trends) 
     |
     ▼
-Feature Engineering (Head-to-head, recent form, scoring, strategy, and venue stats and store in `model_ready`)
+Feature Engineering (Head-to-head, recent form, scoring, strategy, and venue features → `final`)
     |
     ▼
 Model Training & Evaluation (Train and compare multiple machine learning models)
@@ -69,3 +69,19 @@ Inference (Generate features for unseen matches and predict the winner)
 Flask Dashboard (Interative web interface for match winner prediction)
 ```
 Each stage builds upon the previous one to ensure a reproducible workflow, with reusable preprocessing and feature engineering modules shared across the training, inference, and deployment.
+
+Note: The `ball_by_ball` dataset is used exclusively for exploratory data analysis (EDA) to derive match-level insights and visualizations. The machine learning models are trained and evaluated solely on the `match_by_match` dataset, which also serves as the basis for match prediction.
+
+## Feature Engineering
+
+Historical match-level features are generated chronologically, ensuring that each match uses only information available before it was played. This prevents target leakage and keeps training features consistent with inference.
+
+The engineered features include:
+
+- **Head-to-head record:** total wins and wins overall and in the last three meetings between the two competing teams.
+- **Recent team form:** number of wins in each team’s previous five matches.
+- **Recent scoring performance:** average runs scored and conceded across the previous five matches.
+- **Toss-based strategy:** historical win rates when a team chose to chase (`field`) or defend (`bat`) after winning the toss.
+- **Venue context:** historical average score, chasing win rate, and each team’s win rate at the venue.
+
+These features are added to the processed match-level dataset and saved in `data/final/match_by_match.csv` for model training and prediction.
