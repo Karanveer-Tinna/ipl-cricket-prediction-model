@@ -85,3 +85,25 @@ The engineered features include:
 - **Venue context:** historical average score, chasing win rate, and each team’s win rate at the venue.
 
 These features are added to the processed match-level dataset and saved in `data/final/match_by_match.csv` for model training and prediction.
+
+## Model Evaluation
+
+Models are trained using an 80/20 train-test split (`random_state=2026`). Hyperparameters are tuned with five-fold `GridSearchCV` on the training data, and the holdout set is evaluated using accuracy, ROC-AUC, precision-recall AUC, classification reports, and confusion matrices.
+
+Logistic Regression, Decision Tree, Random Forest, Support Vector Classifier, and XGBoost models are compared for two prediction settings:
+
+- **Pre-match (`no_score`):** uses only information available before the match. The selected XGBoost model achieved **57.38% accuracy**, **0.4972 ROC-AUC**, and **0.4468 PR-AUC**.
+- **First-innings (`with_score`):** additionally includes the first-innings score. The selected XGBoost model achieved **69.26% accuracy**, **0.7508 ROC-AUC**, **0.6674 PR-AUC**, and a **0.69 macro F1-score**.
+
+The production pipelines and their metadata are stored in `models/production/no_score/` and `models/production/with_score/`.
+
+## Model Performance
+
+**XGBoost** was selected as the production model for both prediction modes. The pre-match pipeline is intended for predictions before play begins, while the first-innings pipeline is the recommended option once the opening innings score is known.
+
+| Production model | Accuracy | ROC-AUC | Macro F1 |
+| --- | ---: | ---: | ---: |
+| Pre-match XGBoost (`no_score`) | 57.38% | 0.4972 | 0.54 |
+| First-innings XGBoost (`with_score`) | 69.26% | 0.7508 | 0.69* |
+
+The **first-innings XGBoost pipeline** is the strongest production model, providing the best overall holdout performance and balanced class predictions.
