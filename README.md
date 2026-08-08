@@ -107,3 +107,11 @@ The production pipelines and their metadata are stored in `models/production/no_
 | First-innings XGBoost (`with_score`) | 69.26% | 0.7508 | 0.69* |
 
 The **first-innings XGBoost pipeline** is the strongest production model, providing the best overall holdout performance and balanced class predictions.
+
+## Model Interpretation
+
+The production XGBoost models are interpreted in `notebooks/06_model_interpretation.ipynb` using feature importance and SHAP values:
+
+- **Feature Importance:** ranks the inputs that contribute most to overall model predictions. In the first-innings model, `team1_score` is the strongest predictor; the pre-match model relies more on historical head-to-head, venue, and team-performance features.
+- **SHAP Summary Plot:** shows the overall impact and direction of every feature across the test set, helping explain which values increase or decrease the predicted win probability.
+- **SHAP Waterfall Plot:** explains an individual prediction by showing how each feature moves the model output from its baseline value to the final predicted outcome.
