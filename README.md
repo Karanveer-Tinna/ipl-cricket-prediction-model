@@ -110,8 +110,20 @@ The **first-innings XGBoost pipeline** is the strongest production model, provid
 
 ## Model Interpretation
 
-The production XGBoost models are interpreted in `notebooks/06_model_interpretation.ipynb` using feature importance and SHAP values:
+Feature importance, SHAP summary plots, and SHAP waterfall plots are used to explain the production XGBoost models in `notebooks/06_model_interpretation.ipynb`.
 
-- **Feature Importance:** ranks the inputs that contribute most to overall model predictions. In the first-innings model, `team1_score` is the strongest predictor; the pre-match model relies more on historical head-to-head, venue, and team-performance features.
-- **SHAP Summary Plot:** shows the overall impact and direction of every feature across the test set, helping explain which values increase or decrease the predicted win probability.
-- **SHAP Waterfall Plot:** explains an individual prediction by showing how each feature moves the model output from its baseline value to the final predicted outcome.
+### Key Takeaways
+
+- Including **Team 1's first-innings score** substantially improves interpretability and makes it the most influential predictor.
+- Without a first-innings score, predictions rely mainly on historical team performance, bowling-related statistics, and venue characteristics.
+- Historical features become supporting signals once the first-innings score is available.
+- SHAP results agree with feature-importance rankings and align with cricket domain knowledge: score provides the strongest signal, while historical and venue context refine the prediction.
+
+## Inference Pipeline
+
+For an unseen match, the pipeline combines the match inputs teams, venue, toss winner, and toss decision with historical match data, then regenerates the same engineered features used in training. The resulting record is aligned with the saved production model’s feature schema and passed to the appropriate XGBoost pipeline.
+
+- **Before the match:** use the `no_score` model for a pre-match winner prediction.
+- **After the first innings:** provide `team1_score` and use the `with_score` model for a more informed prediction.
+
+The pipeline returns the predicted winner and each team’s win probability. See `notebooks/07_inference.ipynb` for the complete workflow.
