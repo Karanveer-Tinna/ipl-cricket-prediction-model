@@ -127,3 +127,19 @@ For an unseen match, the pipeline combines the match inputs teams, venue, toss w
 - **After the first innings:** provide `team1_score` and use the `with_score` model for a more informed prediction.
 
 The pipeline returns the predicted winner and each team’s win probability. See `notebooks/07_inference.ipynb` for the complete workflow.
+
+## Flask Dashboard
+Below are screenshots of simulated match using Flask Dashboard.
+### No Score Example
+**CSK vs MI match input:**
+![alt text](images/image.png)
+**Output of the match:**
+![alt text](images/image-1.png)
+
+### With Score Example
+**CSK vs MI match input:**
+![alt text](images/image-2.png)
+**Output of the match:**
+![alt text](images/image-3.png)
+
+See how the outcome of the predicted winner was affected based on runs scored by Team 1.
