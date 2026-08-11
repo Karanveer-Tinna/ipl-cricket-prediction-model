@@ -143,3 +143,39 @@ Below are screenshots of simulated match using Flask Dashboard.
 ![alt text](images/image-3.png)
 
 See how the outcome of the predicted winner was affected based on runs scored by Team 1.
+
+
+### Installation
+
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/Karanveer-Tinna/ipl-cricket-prediction-model.git
+cd ipl-cricket-prediction-model
+```
+
+Create and activate a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+**Windows:**
+
+```bash
+.venv\Scripts\activate
+```
+
+**Linux/macOS:**
+
+```bash
+source .venv/bin/activate
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+The project is now ready to run. 
