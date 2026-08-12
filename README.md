@@ -179,3 +179,58 @@ pip install -r requirements.txt
 ```
 
 The project is now ready to run. 
+
+### Running the Project
+
+After completing the installation steps and activating the virtual environment, the project can be executed through the Jupyter notebooks or the Flask dashboard.
+
+#### Jupyter Notebooks
+
+Launch Jupyter from the project root:
+
+```bash
+jupyter notebook
+```
+
+Run the notebooks in the following order:
+
+```text
+01_data_ingestion.ipynb
+02_data_cleaning.ipynb
+03_eda.ipynb
+04_feature_engineering.ipynb
+05_model_training.ipynb
+06_model_interpretation.ipynb
+07_inference.ipynb
+```
+
+Each notebook performs a specific stage of the machine learning pipeline, with outputs from earlier stages used by subsequent stages.
+
+#### Flask Dashboard
+
+To launch the prediction dashboard, run the Flask application from the project root:
+
+```bash
+python app/app.py
+```
+
+The application will start a local development server. Open the displayed local URL in a web browser to access the IPL match winner prediction dashboard.
+
+The dashboard loads the production model and generates the required engineered features before producing a match prediction.
+
+### Notebooks
+
+The project uses a sequence of Jupyter notebooks to separate each stage of the machine learning workflow. The notebooks are designed to be executed in the following order:
+
+|Notebook|Description|
+|---|---|
+|`01_data_ingestion.ipynb`| Converts the raw YAML match files into structured `ball_by_ball.csv` and `match_by_match.csv` datasets.|
+|`02_data_cleaning.ipynb`| Cleans and standardizes the match-level data, including team and venue names, data types, and other inconsistencies.|
+|`03_eda.ipynb`| Performs exploratory data analysis on the `ball_by_ball` and `match_by_match` datasets to identify patterns and derive insights.|
+|`04_feature_engineering.ipynb`| Generates historical team, head-to-head, scoring, strategy, and venue-based features used for model training.|
+|`05_model_training.ipynb`| Trains, tunes, and evaluates multiple machine learning models using different feature configurations and saves the trained model artifacts.|
+|`06_model_interpretation.ipynb`| Analyzes the trained models using feature importance and SHAP to understand the factors influencing predictions.|
+|`07_inference.ipynb`| Demonstrates the complete inference pipeline by generating features for an unseen match and obtaining a prediction from the production model.|
+
+The notebooks collectively provide a reproducible workflow from raw data ingestion to model inference. The reusable feature engineering and inference logic is maintained separately in the `src/` directory and is also used by the Flask application.
+
