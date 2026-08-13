@@ -234,3 +234,20 @@ The project uses a sequence of Jupyter notebooks to separate each stage of the m
 
 The notebooks collectively provide a reproducible workflow from raw data ingestion to model inference. The reusable feature engineering and inference logic is maintained separately in the `src/` directory and is also used by the Flask application.
 
+### Tech Stack
+
+The project uses the following technologies and libraries across data processing, machine learning, visualization, model interpretation, and deployment.
+
+| Category                | Technologies          |
+| --- | --- |
+| Programming Language    | Python                |
+| Data Processing         | Pandas, NumPy         |
+| Data Ingestion          | PyYAML                |
+| Data Visualization      | Matplotlib, Seaborn   |
+| Machine Learning        | Scikit-learn, XGBoost |
+| Model Interpretation    | SHAP                  |
+| Model Persistence       | Joblib                |
+| Development Environment | Jupyter Notebook      |
+| Web Application         | Flask                 |
+| Frontend                | HTML, CSS |
+| Version Control         | Git, GitHub           |
