@@ -251,3 +251,19 @@ The project uses the following technologies and libraries across data processing
 | Web Application         | Flask                 |
 | Frontend                | HTML, CSS |
 | Version Control         | Git, GitHub           |
+
+
+### Results
+
+Multiple machine learning models were evaluated using two feature configurations: **without Team 1 score** for pre-match prediction and **with Team 1 score** for prediction after the first innings. The models were compared using Accuracy, ROC-AUC, PR-AUC, and other classification metrics.
+
+| Feature Configuration | Best Model          | Accuracy | ROC-AUC | PR-AUC |
+| --------------------- | ------------------- | -------: | ------: | -----: |
+| Without Team 1 Score  | Random Forest       |   57.38% |  49,72% | 44.68% |
+| With Team 1 Score     | Logistic Regression |   69.26% |  75.08% | 66.74% |
+
+The **Random Forest model without Team 1 score** was selected as the production model for pre-match inference based on its overall performance. The trained production model is used by the inference pipeline and Flask dashboard.
+
+Model interpretation was performed using feature importance and SHAP analysis to identify the historical performance, team form, head-to-head, scoring, strategy, and venue-related factors contributing to predictions.
+
+> **Note:** The reported metrics correspond to the evaluation results obtained during model development. Refer to the Model Training and Model Interpretation notebooks for detailed comparisons and visualizations.
