@@ -267,3 +267,15 @@ The **Random Forest model without Team 1 score** was selected as the production 
 Model interpretation was performed using feature importance and SHAP analysis to identify the historical performance, team form, head-to-head, scoring, strategy, and venue-related factors contributing to predictions.
 
 > **Note:** The reported metrics correspond to the evaluation results obtained during model development. Refer to the Model Training and Model Interpretation notebooks for detailed comparisons and visualizations.
+
+### Credits
+
+The IPL match data used in this project is sourced from [Cricsheet](https://cricsheet.org/), which provides structured cricket data for research and analysis. The original YAML match files are processed and transformed into the datasets used throughout this project.
+
+The project acknowledges and credits Cricsheet for providing the underlying match data.
+
+### License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for the complete license text.
+
+The MIT License applies to the original code and project materials developed for this project. The underlying IPL match data is provided by Cricsheet and remains subject to the applicable Cricsheet terms and licensing conditions.
